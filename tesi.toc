@@ -1,0 +1,38 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduzione alla Return Oriented Programming}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Concetti fondamentali per l'applicazione}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}L'architettura del processore}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}La sezione di memoria stack}{1}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}I registri del processore}{3}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}Funzionamento della tecnica}{4}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}I gadgets}{5}{subsection.1.2.1}%
+\contentsline {chapter}{\numberline {2}Vulnerabilità sfruttabili dalla ROP e difese}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Vulnerabilità critiche all'interno dei codici}{7}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Stack-based buffer overflow}{7}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Format string}{9}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Difese superabili dalla ROP}{10}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}W$\oplus $X (W-xor-X)}{10}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}ASLR (Address Space Layout Randomization)}{10}{subsection.2.2.2}%
+\contentsline {chapter}{\numberline {3}Tecniche di Attacco usando la ROP e possibili mitigation}{12}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Attacco generico usando la ROP e gestendo i bad chars}{12}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Attacco effettuando il dirottamento dello stack (stack pivoting)}{16}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Attacchi sfruttando le librerie collegate}{17}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Attacchi conoscendo la libreria collegata}{20}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Attacco non conoscendo la versione della libc collegata}{22}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Attacco utilizzando la funzione \_\_libc\_csu\_init()}{23}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Attacco con bypass dello ``stack canary''}{25}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Mitigation alla Return Oriented Programming}{27}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Testing degli attacchi}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduzione al setup e gli strumenti utilizzati per effettuare i test}{29}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Test attacco generico Return Oriented Programming}{32}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Test Stack pivoting}{36}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Test su librerie collegate}{38}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Return-to-PLT}{38}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Return-to-GOT}{40}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Return-to-libc con recupero versione}{42}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Test Return-to-csu}{43}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Test bypass del "Canary"}{46}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Conclusioni}{48}{chapter.5}%
+\contentsline {chapter}{Riferimenti bibliografici}{50}{section*.32}%

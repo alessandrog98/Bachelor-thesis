@@ -1,0 +1,727 @@
+@article{ROP-General,
+author = {Roemer, Ryan and Buchanan, Erik and Shacham, Hovav and Savage, Stefan},
+title = {Return-Oriented Programming: Systems, Languages, and Applications},
+year = {2012},
+issue_date = {March 2012},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {15},
+number = {1},
+issn = {1094-9224},
+url = {https://doi.org/10.1145/2133375.2133377},
+doi = {10.1145/2133375.2133377},
+journal = {ACM Trans. Inf. Syst. Secur.},
+month = {mar},
+articleno = {2},
+numpages = {34},
+keywords = {memory safety, x86, W-xor-X, control flow integrity, NX, Return-oriented programming, SPARC, attacks, return-into-libc, RISC}
+}
+
+@incollection{Stack-operation,
+title = {Chapter 4 - Architecture},
+editor = {Joseph Yiu},
+booktitle = {The Definitive Guide to Arm® Cortex®-M0 and Cortex-M0+ Processors (Second Edition)},
+publisher = {Newnes},
+edition = {Second Edition},
+address = {Oxford},
+pages = {87-108},
+year = {2015},
+isbn = {978-0-12-803277-0},
+doi = {https://doi.org/10.1016/B978-0-12-803277-0.00004-7},
+url = {https://www.sciencedirect.com/science/article/pii/B9780128032770000047},
+author = {Joseph Yiu},
+keywords = {ARMv6-M architecture, Core's registers, Debug features overview, Exceptions and interrupts, Memory system, Nested Vectored Interrupt Controller (NVIC), Operation modes and states, Programmer's model, Reset sequence, Special registers, Stack memory},
+}
+
+@phdthesis{Stack-general,
+author = {Marco Prati},
+title = {ROP Gadgets hiding techniques in Open Source Projects},
+year = {2012},
+url = {http://amslaurea.unibo.it/4682/},
+keywords = {ROP, Security, Buffer Overflows, Open Source, Exploit}
+}
+
+@site{Memory-layout,
+url = {https://aticleworld.com/memory-layout-of-c-program/},
+author = {Aticleworld},
+year = {2019}
+}
+
+@site{Stack-register,
+url = {https://people.cs.rutgers.edu/~pxk/419/notes/frames.html},
+author = {Paul Krzyzanowski},
+year = {2018}
+}
+
+@site{Stack-op2,
+url = {https://web.archive.org/web/20130225162302/http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/stack.html},
+author = {cs.umd.edu},
+year = {2013}
+}
+
+@site{Register-definition,
+url = {https://www.techtarget.com/whatis/definition/register},
+author = {Ben Lutkevich},
+year = {2020}
+}
+
+@site{x86-64-General,
+url = {https://cs.brown.edu/courses/csci1310/2020/notes/l08.html},
+author = {cs.brown.edu},
+year = {2020}
+}
+
+@article{ROP-registers,
+  author={Prandini, Marco and Ramilli, Marco},
+  journal={IEEE Security   Privacy}, 
+  title={Return-Oriented Programming}, 
+  year={2012},
+  volume={10},
+  number={6},
+  pages={84-87},
+  doi={10.1109/MSP.2012.152}
+}
+
+@article{ROP-architecture,
+author = {Davi, Lucas and Sadeghi, Ahmad-Reza and Winandy, Marcel},
+title = {ROPdefender: A Detection Tool to Defend against Return-Oriented Programming Attacks},
+year = {2011},
+isbn = {9781450305648},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1966913.1966920},
+doi = {10.1145/1966913.1966920},
+booktitle = {Proceedings of the 6th ACM Symposium on Information, Computer and Communications Security},
+pages = {40–51},
+numpages = {12},
+keywords = {return-oriented programming, detection, binary instrumentation},
+location = {Hong Kong, China},
+series = {ASIACCS '11}
+}
+
+@article{ROP-x86,
+author = {Shacham, Hovav},
+title = {The Geometry of Innocent Flesh on the Bone: Return-into-Libc without Function Calls (on the X86)},
+year = {2007},
+isbn = {9781595937032},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1315245.1315313},
+doi = {10.1145/1315245.1315313},
+booktitle = {Proceedings of the 14th ACM Conference on Computer and Communications Security},
+pages = {552–561},
+numpages = {10},
+keywords = {return-into-libc, instruction set, turing completeness},
+location = {Alexandria, Virginia, USA},
+series = {CCS '07}
+}
+
+@article{ROP-AtmelAVR,
+author = {Francillon, Aur\'{e}lien and Castelluccia, Claude},
+title = {Code Injection Attacks on Harvard-Architecture Devices},
+year = {2008},
+isbn = {9781595938107},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1455770.1455775},
+doi = {10.1145/1455770.1455775},
+abstract = {Harvard architecture CPU design is common in the embedded world. Examples of Harvard-based architecture devices are the Mica family of wireless sensors. Mica motes have limited memory and can process only very small packets. Stack-based buffer overflow techniques that inject code into the stack and then execute it are therefore not applicable. It has been a common belief that code injection is impossible on Harvard architectures. This paper presents a remote code injection attack for Mica sensors. We show how to exploit program vulnerabilities to permanently inject any piece of code into the program memory of an Atmel AVR-based sensor. To our knowledge, this is the first result that presents a code injection technique for such devices. Previous work only succeeded in injecting data or performing transient attacks. Injecting permanent code is more powerful since the attacker can gain full control of the target sensor. We also show that this attack can be used to inject a worm that can propagate through the wireless sensor network and possibly create a sensor botnet. Our attack combines different techniques such as return oriented programming and fake stack injection. We present implementation details and suggest some counter-measures.},
+booktitle = {Proceedings of the 15th ACM Conference on Computer and Communications Security},
+pages = {15–26},
+numpages = {12},
+keywords = {embedded devices, wireless sensor networks, buffer overflow, computer worms, gadgets, code injection attacks, return oriented programming, harvard architecture},
+location = {Alexandria, Virginia, USA},
+series = {CCS '08}
+}
+
+@article{ROP-Z80,
+title = "Can DREs provide long-lasting security? The case of return-oriented programming and the AVC advantage",
+author = "Stephen Checkoway and Feldman, {Ariel J.} and Brian Kantor and {Alex Halderman}, J. and Felten, {Edward W.} and Hovav Shacham",
+note = "Publisher Copyright: {\textcopyright} EVT/WOTE 2009 - 2009 Electronic Voting Technology Workshop/Workshop on Trustworthy Elections. All rights reserved. Copyright: Copyright 2020 Elsevier B.V., All rights reserved.; 2009 Electronic Voting Technology Workshop/Workshop on Trustworthy Elections, EVT/WOTE 2009, Held in Conjunction with the 18th USENIX Security Symposium ; Conference date: 10-08-2009 Through 11-08-2009",
+year = "2009",
+language = "English (US)",
+}
+
+@site{buffer-overflow,
+url = {https://medium.com/@buff3r/basic-buffer-overflow-on-64-bit-architecture-3fb74bab3558},
+author = {Anonymous},
+year = {2018}
+}
+
+@site{stack-frame-layoutx86-64,
+url = {https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64/},
+author = {Eli Bendersky},
+year = {2011}
+}
+
+
+@site{ROP-Basics,
+url = {https://www.exploit-db.com/docs/english/28479-return-oriented-programming-(rop-ftw).pdf},
+author = {Saif El-Sherei},
+year = {2013}
+}
+
+@article{ROP-General2,
+  author    = {Ayush Bansal and
+               Debadatta Mishra},
+  title     = {A practical analysis of {ROP} attacks},
+  journal   = {CoRR},
+  volume    = {abs/2111.03537},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2111.03537},
+  eprinttype = {arXiv},
+  eprint    = {2111.03537},
+  timestamp = {Wed, 10 Nov 2021 16:07:30 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2111-03537.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{JOP,
+author = {Bletsch, Tyler and Jiang, Xuxian and Freeh, Vince W. and Liang, Zhenkai},
+title = {Jump-Oriented Programming: A New Class of Code-Reuse Attack},
+year = {2011},
+isbn = {9781450305648},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1966913.1966919},
+doi = {10.1145/1966913.1966919},
+booktitle = {Proceedings of the 6th ACM Symposium on Information, Computer and Communications Security},
+pages = {30–40},
+numpages = {11},
+location = {Hong Kong, China},
+series = {ASIACCS '11}
+}
+
+@article{JOP2,
+  author={Erdődi, L.},
+  booktitle={2013 IEEE 17th International Conference on Intelligent Engineering Systems (INES)}, 
+  title={Attacking x86 windows binaries by jump oriented programming}, 
+  year={2013},
+  volume={},
+  number={},
+  pages={333-338},
+  doi={10.1109/INES.2013.6632837}
+}
+
+@article{Gadgets,
+author = {Onarlioglu, Kaan and Bilge, Leyla and Lanzi, Andrea and Balzarotti, Davide and Kirda, Engin},
+title = {G-Free: Defeating Return-Oriented Programming through Gadget-Less Binaries},
+year = {2010},
+isbn = {9781450301336},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1920261.1920269},
+doi = {10.1145/1920261.1920269},
+booktitle = {Proceedings of the 26th Annual Computer Security Applications Conference},
+pages = {49–58},
+numpages = {10},
+keywords = {return-to-libc, ROP, return-oriented programming},
+location = {Austin, Texas, USA},
+series = {ACSAC '10}
+}
+
+@inproceedings {Gadgets-unintended,
+author = {Nicholas Carlini and David Wagner},
+title = {{ROP} is Still Dangerous: Breaking Modern Defenses},
+booktitle = {23rd USENIX Security Symposium (USENIX Security 14)},
+year = {2014},
+isbn = {978-1-931971-15-7},
+address = {San Diego, CA},
+pages = {385--399},
+url = {https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/carlini},
+publisher = {USENIX Association},
+month = aug,
+}
+
+@article{ROP-Chain,
+  author    = {Pietro Borrello and
+               Emilio Coppa and
+               Daniele Cono D'Elia},
+  title     = {Hiding in the Particles: When Return-Oriented Programming Meets Program
+               Obfuscation},
+  journal   = {CoRR},
+  volume    = {abs/2012.06658},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2012.06658},
+  eprinttype = {arXiv},
+  eprint    = {2012.06658},
+  timestamp = {Sat, 02 Jan 2021 15:43:30 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2012-06658.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@misc{ROPgadget,
+  author       = {Jonathan Salwan},
+  title        = {ROPgadget},
+  year         = {2011},
+  url       = {https://github.com/JonathanSalwan/ROPgadget}
+}
+
+@misc{Ropper,
+  author       = {Sascha Schirra},
+  title        = {Ropper},
+  year         = {2018},
+  url       = {https://github.com/sashs/Ropper}
+}
+
+@misc{Radare2,
+  author       = {Radare group},
+  title        = {Radare2},
+  year         = {2009},
+  url       = {https://github.com/radareorg/radare2}
+}
+
+@article{Stack-bufferoverflow2,
+author = {Kuperman, Benjamin A. and Brodley, Carla E. and Ozdoganoglu, Hilmi and Vijaykumar, T. N. and Jalote, Ankit},
+title = {Detection and Prevention of Stack Buffer Overflow Attacks},
+year = {2005},
+issue_date = {November 2005},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {48},
+number = {11},
+issn = {0001-0782},
+url = {https://doi.org/10.1145/1096000.1096004},
+doi = {10.1145/1096000.1096004},
+journal = {Commun. ACM},
+month = {nov},
+pages = {50–56},
+numpages = {7}
+}
+
+@inproceedings{Heapoverflow,
+author = {Heelan, Sean and Melham, Tom and Kroening, Daniel},
+title = {Gollum: Modular and Greybox Exploit Generation for Heap Overflows in Interpreters},
+year = {2019},
+isbn = {9781450367479},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3319535.3354224},
+doi = {10.1145/3319535.3354224},
+booktitle = {Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security},
+pages = {1689–1706},
+numpages = {18},
+keywords = {primitive search, greybox, exploit generation},
+location = {London, United Kingdom},
+series = {CCS '19}
+}
+
+@site{Heapoverflow-jpeg,
+url = {https://www.openwall.com/articles/JPEG-COM-Marker-Vulnerability#exploit},
+author = {Solar designer},
+year = {2000},
+revised = {2010}
+}
+
+@inproceedings{Integeroverflow,
+author = {Dietz, Will and Li, Peng and Regehr, John and Adve, Vikram},
+title = {Understanding Integer Overflow in C/C++},
+year = {2012},
+isbn = {9781467310673},
+publisher = {IEEE Press},
+booktitle = {Proceedings of the 34th International Conference on Software Engineering},
+pages = {760–770},
+numpages = {11},
+location = {Zurich, Switzerland},
+series = {ICSE '12}
+}
+
+@inproceedings{Integeroverflow2,
+author = {Huang, Zhen and Yu, Xiaowei},
+title = {Integer Overflow Detection with Delayed Runtime Test},
+year = {2021},
+isbn = {9781450390514},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3465481.3465771},
+doi = {10.1145/3465481.3465771},
+booktitle = {The 16th International Conference on Availability, Reliability and Security},
+articleno = {28},
+numpages = {6},
+keywords = {software vulnerability, static analysis, vulnerability detection, integer overflow},
+location = {Vienna, Austria},
+series = {ARES 2021}
+}
+
+@article{Formatstring,
+  author          = {Teso team},
+  title           = {Exploiting Format String Vulnerabilities},
+  year            = {2001}
+}
+
+@site{Formatstring2,
+url = {https://www.invicti.com/blog/web-security/format-string-vulnerabilities/},
+author = {Zbigniew Banach},
+year = {2020}
+}
+
+@article{Stack-bufferoverflow,
+  author          = {Aleph1},
+  journal         = {Phrack magazine},
+  number          = {49},
+  pages           = {14--16},
+  title           = {Smashing The Stack For Fun And Profit},
+  volume          = {7},
+  year            = {1996}
+}
+
+@site{ROP-bufferoverflow,
+url = {https://resources.infosecinstitute.com/topic/return-oriented-programming-rop-attacks/},
+author = {Rashid Bhat},
+year = {2019}
+}
+
+@site{unsafe-func,
+url = {https://w3.cs.jmu.edu/lam2mo/cs261/c_funcs.html},
+author = {Mike Lam},
+year = {2021}
+}
+
+@article{AMD64-ABI,
+  title={System v application binary interface},
+  author={Matz, Michael and Hubicka, Jan and Jaeger, Andreas and Mitchell, Mark},
+  journal={AMD64 Architecture Processor Supplement, Draft v0},
+  volume={99},
+  number={2013},
+  pages={57},
+  year={2013}
+}
+
+
+@site{SEI-CERT-RULE09,
+url = {https://wiki.sei.cmu.edu/confluence/display/c/FIO30-C.+Exclude+user+input+from+format+strings},
+author = {Hal Burch},
+year = {2008},
+revised = {2022}
+}
+
+
+@site{OpenBSD-3.3,
+url = {http://www.openbsd.org/33.html},
+author = {Theo de Raadt},
+year = {2003},
+}
+
+@site{DEP-windows,
+url = {https://www.blackhat.com/html/bh-us-12/bh-us-12-briefings.html#Miller2},
+author = {Matt Miller, Ken Johnson},
+year = {2012},
+}
+
+@article{shellcode,
+  title={The shellcode generation},
+  author={Arce, Ivan},
+  journal={IEEE security \& privacy},
+  volume={2},
+  number={5},
+  pages={72--76},
+  year={2004},
+  publisher={IEEE}
+}
+
+@inproceedings {ASLR-WX,
+author = {Edward J. Schwartz and Thanassis Avgerinos and David Brumley},
+title = {Q: Exploit Hardening Made Easy},
+booktitle = {20th USENIX Security Symposium (USENIX Security 11)},
+year = {2011},
+address = {San Francisco, CA},
+url = {https://www.usenix.org/conference/usenix-security-11/q-exploit-hardening-made-easy},
+publisher = {USENIX Association},
+}
+
+@site{ASLR,
+url = {https://pax.grsecurity.net/docs/aslr.txt},
+author = {PaX Team},
+}
+
+
+@site{ASLR2,
+url = {https://www.thefastcode.com/it-eur/article/what-is-aslr-and-how-does-it-keep-your-computer-secure},
+author = {PaX Team},
+}
+
+@manual{ISA-x86-64,
+  author       = {Intel},
+  title        = {Intel® 64 and IA-32 Architectures Software Developer’s Manual}
+}
+
+@site{ZEROED-register,
+  url          = {https://stackoverflow.com/a/4831763},
+  author       = {Gj.},
+  year         = {2011}
+}
+
+@site{Syscall-table,
+  url          = {https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/},
+  author       = {Ryan A. Chapman},
+  year         = {2012}
+}
+
+@site{Syscall-table-UP,
+  url          = {https://github.com/torvalds/linux/blob/master/arch/x86/entry/syscalls/syscall_64.tbl},
+  author       = {Aneesh Kumar K.V},
+  revised      = {2022}
+}
+
+@manual{Execve-linuxmanpage,
+  author       = {Michael Kerrisk},
+  title        = {Linux Programmer's Manual},
+  page         = {EXECVE(2)},
+  url          = {https://man7.org/linux/man-pages/man2/execve.2.html}
+}
+
+@site{Badchars,
+  url          = {https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-4},
+  author       = {Ricardo Narvaja},
+}
+
+@site{Stack-pivoting,
+  url          = {https://ir0nstone.gitbook.io/notes/types/stack/stack-pivoting},
+  author       = {Andrej L},
+  revised      = {2021}
+}
+
+@site{PLT-GOT,
+  url          = {https://www.linkedin.com/pulse/elf-linux-executable-plt-got-tables-mohammad-alhyari},
+  author       = {Mohammad Alhyari},
+  year         = {2021}
+}
+
+@site{PLT-GOT-MITIGATION,
+  url          = {https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html},
+  author       = {David Tomaschik},
+  year         = {2017}
+}
+
+@site{PLT-GOT2,
+  url          = {https://ropemporium.com/guide.html},
+  author       = {ROP Emporium}
+}
+
+@site{ASLR-BYPASS,
+  url          = {https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-i/},
+  author       = {Sploitfun},
+  year         = {2015}
+}
+
+@manual{ELF,
+  title        = {Tool Interface Standard (TIS) Executable and Linking Format (ELF) Specification},
+  version      = {1.2},
+  year         = {1995}
+}
+
+@site{ELF2,
+  url          = {https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/},
+  author       = {Michael Boelen},
+  year         = {2019}
+}
+
+@article{Ret2libc,
+author = {Tran, Minh and Etheridge, Mark and Bletsch, Tyler and Jiang, Xuxian and Freeh, Vincent and Ning, Peng},
+year = {2011},
+month = {09},
+pages = {121-141},
+title = {On the Expressiveness of Return-into-libc Attacks},
+volume = {6961},
+isbn = {978-3-642-23643-3},
+doi = {10.1007/978-3-642-23644-0_7}
+}
+
+@site{LIBRARY,
+  url          = {http://www-old.bo.cnr.it/corsi-di-informatica/corsoCstandard/Lezioni/37LinuxLibraries.html},
+  title        = {Librerie statiche e dinamiche in Linux},
+  year         = {2003}
+}
+
+@site{PLT-GOT-OVERWRITE,
+  url          = {https://infosecwriteups.com/got-overwrite-bb9ff5414628},
+  author       = {Monish Kumar},
+  year         = {2021}
+}
+
+@site{PLT-GOT-WORKS,
+  url          = {https://bitguard.wordpress.com/2016/11/26/an-example-of-how-procedure-linkage-table-works/},
+  author       = {sirus Shahini},
+  year         = {2016}
+}
+
+
+@site{Return2plt,
+  url          = {https://codingvision.net/bypassing-aslr-dep-getting-shells-with-pwntools},
+  author       = {Dan Sporici},
+  year         = {2019}
+}
+
+@article{GOT-OVERWRITE,
+  url          = {http://www.infosecwriters.com/text_resources/pdf/GOT_Hijack.pdf},
+  title        = {How to Hijack the Global Offset Table With Pointers for Root Shells},
+  author       = {c0ntex},
+  year         = {2020}
+}
+
+@article{GOT-OVERWRITE-MITIGATION,  
+  author={Jeong, Seunghoon and Hwang, Jaejoon and Kwon, Hyukjin and Shin, Dongkyoo},  
+  journal={IEEE Access},   
+  title={A CFI Countermeasure Against GOT Overwrite Attacks},   
+  year={2020},  
+  volume={8},  
+  number={},  
+  pages={36267-36280},  
+  doi={10.1109/ACCESS.2020.2975037}
+}
+
+@site{find-libc-version,
+  url          = {https://medium.com/@gr4n173/pwn-ret2libc-7c8b7334725f},
+  author       = {gr4n173},
+  year         = {2020}
+}
+
+@site{find-libc-version2,
+  url          = {https://ret2rop.blogspot.com/2020/04/got-address-leak-exploit-unknown-libc.html},
+  author       = {Shivam Shirirao},
+  year         = {2020}
+}
+
+@site{Ret2libc-libcexpl,
+  url          = {https://ret2rop.blogspot.com/2018/08/return-to-libc.html},
+  author       = {Shivam Shirirao},
+  year         = {2018}
+}
+
+
+@artcile{return-to-csu,
+title = "return-to-csu: a new method to bypass 64-bit Linux ASLR",
+keywords = "ASLR, Linux, Security",
+author = "Hector Marco-Gisbert and Ismael Ripoll",
+year = "2018",
+month = mar,
+day = "20",
+note = "Black Hat Asia 2018, Black Hat ; Conference date: 20-03-2018 Through 23-03-2018",
+url = "https://www.blackhat.com/asia-18/",
+}
+
+@site{return-to-csu2,
+title        = {ret2csu},
+url          = {https://gist.github.com/kaftejiman/a853ccb659fc3633aa1e61a9e26266e9},
+author       = {Mohamed Amine},
+year         = {2018}
+}
+
+@site{return-to-csu-challenge,
+  url          = {https://ropemporium.com/challenge/ret2csu.html},
+  author       = {ROP Emporium},
+}
+
+@article{Canary,
+  author          = {G. Lettieri},
+  title           = {Stack Canaries},
+  year            = {2020},
+  url             = {https://lettieri.iet.unipi.it/hacking/canaries.pdf}
+}
+
+@site{Canary2,
+  author          = {Michiel Lemmens},
+  year            = {2021},
+  url             = {https://www.sans.org/blog/stack-canaries-gingerly-sidestepping-the-cage/}
+}
+
+@site{Canary-bypass,
+  author       = {Andrej L},
+  revised      = {2021},
+  url          = {https://ir0nstone.gitbook.io/notes/types/stack/canaries}
+}
+
+@site{Canary-bypass-brute,
+  author       = {NYU OSIRIS LAB},
+  url          = {https://ctf101.org/binary-exploitation/stack-canaries/}
+}
+
+@site{GDB,
+  title        = {GDB: The GNU Project Debugger},
+  author       = {GDB developers},
+  url          = {https://www.sourceware.org/gdb/},
+  revised      = {2022}
+}
+
+@site{PEDA,
+  author       = {Long Le},
+  url          = {https://github.com/longld/peda},
+  revised      = {2021}
+}
+
+@manual{pwntools,
+  title        = {pwntools},
+  url          = {https://docs.pwntools.com/en/stable/index.html}
+}
+
+@site{NX,
+  url          = {https://lkml.iu.edu/hypermail/linux/kernel/0406.0/0497.html},
+  author       = {Ingo Molnar},
+  year         = {2004},
+}
+
+@article{Pro-Police,
+author = {Etoh, Hiroaki and Yoda, Kunikazu},
+year = {2002},
+month = {01},
+title = {ProPolice: Improved stack-smashing attack detection},
+volume = {14},
+journal = {IPSJ SIGNotes Computer Security (CSEC)}
+}
+
+@inproceedings{Stackguard,
+  title={Stackguard: automatic adaptive detection and prevention of buffer-overflow attacks.},
+  author={Cowan, Crispan and Pu, Calton and Maier, Dave and Walpole, Jonathan and Bakke, Peat and Beattie, Steve and Grier, Aaron and Wagle, Perry and Zhang, Qian and Hinton, Heather},
+  booktitle={USENIX security symposium},
+  volume={98},
+  pages={63--78},
+  year={1998},
+  organization={San Antonio, TX}
+}
+
+@article{StackGuard-bypass,
+author = {Bulba and Kil3r},
+year = {2000},
+title = {Bypassing StackGuard and StackShield},
+volume = {56},
+journal = {Phrack Magazine}
+}
+
+@inproceedings{BoundsChecking,
+  title={Baggy Bounds Checking: An Efficient and Backwards-Compatible Defense against Out-of-Bounds Errors.},
+  author={Akritidis, Periklis and Costa, Manuel and Castro, Miguel and Hand, Steven},
+  booktitle={USENIX Security Symposium},
+  volume={10},
+  year={2009}
+}
+
+@inproceedings{ShadowStack,
+  title={The performance cost of shadow stacks and stack canaries},
+  author={Dang, Thurston HY and Maniatis, Petros and Wagner, David},
+  booktitle={Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security},
+  pages={555--566},
+  year={2015}
+}
+
+@manual{CET,
+  author       = {H.J. Lu, Intel},
+  date         = {November, 2018},
+  title        = {Control-flow Enforcement Technology},
+  url          = {https://lpc.events/event/2/contributions/147/attachments/72/83/CET-LPC-2018.pdf}
+}
+
+@inproceedings{CFI1,
+  title={XFI: Software guards for system address spaces},
+  author={Erlingsson, Ulfar and Abadi, Mart{\'\i}n and Vrable, Michael and Budiu, Mihai and Necula, George C},
+  booktitle={Proceedings of the 7th symposium on Operating systems design and implementation},
+  pages={75--88},
+  year={2006}
+}
+
+@inproceedings{CFI2,
+  title={XFI: Software guards for system address spaces},
+  author={Erlingsson, Ulfar and Abadi, Mart{\'\i}n and Vrable, Michael and Budiu, Mihai and Necula, George C},
+  booktitle={Proceedings of the 7th symposium on Operating systems design and implementation},
+  pages={75--88},
+  year={2006}
+}

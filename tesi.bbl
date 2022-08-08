@@ -1,0 +1,2704 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{BoundsChecking}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=eaf7407bb95e95b2d7676e371cf9aab0}{%
+           family={Akritidis},
+           familyi={A\bibinitperiod},
+           given={Periklis},
+           giveni={P\bibinitperiod}}}%
+        {{hash=765edf17c76d554c2c81fc87b5748350}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=084730901e78fd30411e6af546d8540f}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ae4b8fa8c5628beeb183f814b5bbfcae}{%
+           family={Hand},
+           familyi={H\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c828514d429e9c9d9158957e65a2f1c8}
+      \strng{fullhash}{a0037c95abb8cfe3108007a985a92a79}
+      \strng{bibnamehash}{c828514d429e9c9d9158957e65a2f1c8}
+      \strng{authorbibnamehash}{c828514d429e9c9d9158957e65a2f1c8}
+      \strng{authornamehash}{c828514d429e9c9d9158957e65a2f1c8}
+      \strng{authorfullhash}{a0037c95abb8cfe3108007a985a92a79}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{USENIX Security Symposium}
+      \field{title}{Baggy Bounds Checking: An Efficient and Backwards-Compatible Defense against Out-of-Bounds Errors.}
+      \field{volume}{10}
+      \field{year}{2009}
+    \endentry
+    \entry{Stack-bufferoverflow}{article}{}
+      \name{author}{1}{}{%
+        {{hash=11500c4b15220521102c6f7af1fc4929}{%
+           family={Aleph1},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{11500c4b15220521102c6f7af1fc4929}
+      \strng{fullhash}{11500c4b15220521102c6f7af1fc4929}
+      \strng{bibnamehash}{11500c4b15220521102c6f7af1fc4929}
+      \strng{authorbibnamehash}{11500c4b15220521102c6f7af1fc4929}
+      \strng{authornamehash}{11500c4b15220521102c6f7af1fc4929}
+      \strng{authorfullhash}{11500c4b15220521102c6f7af1fc4929}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Phrack magazine}
+      \field{number}{49}
+      \field{title}{Smashing The Stack For Fun And Profit}
+      \field{volume}{7}
+      \field{year}{1996}
+      \field{pages}{14\bibrangedash 16}
+      \range{pages}{3}
+    \endentry
+    \entry{PLT-GOT}{site}{}
+      \name{author}{1}{}{%
+        {{hash=2caf84d9ec3b6217b5324a9c4d828e26}{%
+           family={Alhyari},
+           familyi={A\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2caf84d9ec3b6217b5324a9c4d828e26}
+      \strng{fullhash}{2caf84d9ec3b6217b5324a9c4d828e26}
+      \strng{bibnamehash}{2caf84d9ec3b6217b5324a9c4d828e26}
+      \strng{authorbibnamehash}{2caf84d9ec3b6217b5324a9c4d828e26}
+      \strng{authornamehash}{2caf84d9ec3b6217b5324a9c4d828e26}
+      \strng{authorfullhash}{2caf84d9ec3b6217b5324a9c4d828e26}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.linkedin.com/pulse/elf-linux-executable-plt-got-tables-mohammad-alhyari
+      \endverb
+      \verb{url}
+      \verb https://www.linkedin.com/pulse/elf-linux-executable-plt-got-tables-mohammad-alhyari
+      \endverb
+    \endentry
+    \entry{return-to-csu2}{site}{}
+      \name{author}{1}{}{%
+        {{hash=3c1e579d20aab29d7fa60a16d84fedd1}{%
+           family={Amine},
+           familyi={A\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c1e579d20aab29d7fa60a16d84fedd1}
+      \strng{fullhash}{3c1e579d20aab29d7fa60a16d84fedd1}
+      \strng{bibnamehash}{3c1e579d20aab29d7fa60a16d84fedd1}
+      \strng{authorbibnamehash}{3c1e579d20aab29d7fa60a16d84fedd1}
+      \strng{authornamehash}{3c1e579d20aab29d7fa60a16d84fedd1}
+      \strng{authorfullhash}{3c1e579d20aab29d7fa60a16d84fedd1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ret2csu}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://gist.github.com/kaftejiman/a853ccb659fc3633aa1e61a9e26266e9
+      \endverb
+      \verb{url}
+      \verb https://gist.github.com/kaftejiman/a853ccb659fc3633aa1e61a9e26266e9
+      \endverb
+    \endentry
+    \entry{buffer-overflow}{site}{}
+      \name{author}{1}{}{%
+        {{hash=7079c72c21415131774625ba1d64f4b0}{%
+           family={Anonymous},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{fullhash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{bibnamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authorbibnamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authornamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authorfullhash}{7079c72c21415131774625ba1d64f4b0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://medium.com/@buff3r/basic-buffer-overflow-on-64-bit-architecture-3fb74bab3558
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@buff3r/basic-buffer-overflow-on-64-bit-architecture-3fb74bab3558
+      \endverb
+    \endentry
+    \entry{shellcode}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9b4f15ec14c94d87e738861d2c9dae16}{%
+           family={Arce},
+           familyi={A\bibinitperiod},
+           given={Ivan},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{9b4f15ec14c94d87e738861d2c9dae16}
+      \strng{fullhash}{9b4f15ec14c94d87e738861d2c9dae16}
+      \strng{bibnamehash}{9b4f15ec14c94d87e738861d2c9dae16}
+      \strng{authorbibnamehash}{9b4f15ec14c94d87e738861d2c9dae16}
+      \strng{authornamehash}{9b4f15ec14c94d87e738861d2c9dae16}
+      \strng{authorfullhash}{9b4f15ec14c94d87e738861d2c9dae16}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE security \& privacy}
+      \field{number}{5}
+      \field{title}{The shellcode generation}
+      \field{volume}{2}
+      \field{year}{2004}
+      \field{pages}{72\bibrangedash 76}
+      \range{pages}{5}
+    \endentry
+    \entry{Memory-layout}{site}{}
+      \name{author}{1}{}{%
+        {{hash=6b9853157d87897ff9dec9c1db52af93}{%
+           family={Aticleworld},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6b9853157d87897ff9dec9c1db52af93}
+      \strng{fullhash}{6b9853157d87897ff9dec9c1db52af93}
+      \strng{bibnamehash}{6b9853157d87897ff9dec9c1db52af93}
+      \strng{authorbibnamehash}{6b9853157d87897ff9dec9c1db52af93}
+      \strng{authornamehash}{6b9853157d87897ff9dec9c1db52af93}
+      \strng{authorfullhash}{6b9853157d87897ff9dec9c1db52af93}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://aticleworld.com/memory-layout-of-c-program/
+      \endverb
+      \verb{url}
+      \verb https://aticleworld.com/memory-layout-of-c-program/
+      \endverb
+    \endentry
+    \entry{Formatstring2}{site}{}
+      \name{author}{1}{}{%
+        {{hash=938de6f2342c7522962f7c296e133bdf}{%
+           family={Banach},
+           familyi={B\bibinitperiod},
+           given={Zbigniew},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{938de6f2342c7522962f7c296e133bdf}
+      \strng{fullhash}{938de6f2342c7522962f7c296e133bdf}
+      \strng{bibnamehash}{938de6f2342c7522962f7c296e133bdf}
+      \strng{authorbibnamehash}{938de6f2342c7522962f7c296e133bdf}
+      \strng{authornamehash}{938de6f2342c7522962f7c296e133bdf}
+      \strng{authorfullhash}{938de6f2342c7522962f7c296e133bdf}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.invicti.com/blog/web-security/format-string-vulnerabilities/
+      \endverb
+      \verb{url}
+      \verb https://www.invicti.com/blog/web-security/format-string-vulnerabilities/
+      \endverb
+    \endentry
+    \entry{ROP-General2}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e8ba220ea3ac85a2e72c7b0c8ef9802b}{%
+           family={Bansal},
+           familyi={B\bibinitperiod},
+           given={Ayush},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c99c1428623f8660a94ad29c5664a9ac}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={Debadatta},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{8932c81e9977914306eaef61e4ab7914}
+      \strng{fullhash}{8932c81e9977914306eaef61e4ab7914}
+      \strng{bibnamehash}{8932c81e9977914306eaef61e4ab7914}
+      \strng{authorbibnamehash}{8932c81e9977914306eaef61e4ab7914}
+      \strng{authornamehash}{8932c81e9977914306eaef61e4ab7914}
+      \strng{authorfullhash}{8932c81e9977914306eaef61e4ab7914}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{A practical analysis of {ROP} attacks}
+      \field{volume}{abs/2111.03537}
+      \field{year}{2021}
+      \verb{eprint}
+      \verb 2111.03537
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2111.03537
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2111.03537
+      \endverb
+    \endentry
+    \entry{stack-frame-layoutx86-64}{site}{}
+      \name{author}{1}{}{%
+        {{hash=f4d61dab20ec9ccc9e379214e9969df5}{%
+           family={Bendersky},
+           familyi={B\bibinitperiod},
+           given={Eli},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4d61dab20ec9ccc9e379214e9969df5}
+      \strng{fullhash}{f4d61dab20ec9ccc9e379214e9969df5}
+      \strng{bibnamehash}{f4d61dab20ec9ccc9e379214e9969df5}
+      \strng{authorbibnamehash}{f4d61dab20ec9ccc9e379214e9969df5}
+      \strng{authornamehash}{f4d61dab20ec9ccc9e379214e9969df5}
+      \strng{authorfullhash}{f4d61dab20ec9ccc9e379214e9969df5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64/
+      \endverb
+      \verb{url}
+      \verb https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64/
+      \endverb
+    \endentry
+    \entry{ROP-bufferoverflow}{site}{}
+      \name{author}{1}{}{%
+        {{hash=56d38f12f6415ce97ae14d9c8516a0ac}{%
+           family={Bhat},
+           familyi={B\bibinitperiod},
+           given={Rashid},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{56d38f12f6415ce97ae14d9c8516a0ac}
+      \strng{fullhash}{56d38f12f6415ce97ae14d9c8516a0ac}
+      \strng{bibnamehash}{56d38f12f6415ce97ae14d9c8516a0ac}
+      \strng{authorbibnamehash}{56d38f12f6415ce97ae14d9c8516a0ac}
+      \strng{authornamehash}{56d38f12f6415ce97ae14d9c8516a0ac}
+      \strng{authorfullhash}{56d38f12f6415ce97ae14d9c8516a0ac}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://resources.infosecinstitute.com/topic/return-oriented-programming-rop-attacks/
+      \endverb
+      \verb{url}
+      \verb https://resources.infosecinstitute.com/topic/return-oriented-programming-rop-attacks/
+      \endverb
+    \endentry
+    \entry{JOP}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7683a9a02291d9d03c5643a8215184b6}{%
+           family={Bletsch},
+           familyi={B\bibinitperiod},
+           given={Tyler},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ce10d9e316c2d22a46ebfa423c4e7bbe}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Xuxian},
+           giveni={X\bibinitperiod}}}%
+        {{hash=16fe9ccf230c568741b4f2544b4d58d2}{%
+           family={Freeh},
+           familyi={F\bibinitperiod},
+           given={Vince\bibnamedelima W.},
+           giveni={V\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=3f06a13bb659c47fdd916ca3420d7ca3}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Zhenkai},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hong Kong, China}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{88c3d399a332d41da7f54c05c542a8c4}
+      \strng{fullhash}{a6800f3b13bf58bb5493a0a73f80646b}
+      \strng{bibnamehash}{88c3d399a332d41da7f54c05c542a8c4}
+      \strng{authorbibnamehash}{88c3d399a332d41da7f54c05c542a8c4}
+      \strng{authornamehash}{88c3d399a332d41da7f54c05c542a8c4}
+      \strng{authorfullhash}{a6800f3b13bf58bb5493a0a73f80646b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 6th ACM Symposium on Information, Computer and Communications Security}
+      \field{isbn}{9781450305648}
+      \field{series}{ASIACCS '11}
+      \field{title}{Jump-Oriented Programming: A New Class of Code-Reuse Attack}
+      \field{year}{2011}
+      \field{pages}{30\bibrangedash 40}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1145/1966913.1966919
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1966913.1966919
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1966913.1966919
+      \endverb
+    \endentry
+    \entry{ELF2}{site}{}
+      \name{author}{1}{}{%
+        {{hash=f0e815f3620c4939471f960dc81ce547}{%
+           family={Boelen},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0e815f3620c4939471f960dc81ce547}
+      \strng{fullhash}{f0e815f3620c4939471f960dc81ce547}
+      \strng{bibnamehash}{f0e815f3620c4939471f960dc81ce547}
+      \strng{authorbibnamehash}{f0e815f3620c4939471f960dc81ce547}
+      \strng{authornamehash}{f0e815f3620c4939471f960dc81ce547}
+      \strng{authorfullhash}{f0e815f3620c4939471f960dc81ce547}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+      \endverb
+      \verb{url}
+      \verb https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+      \endverb
+    \endentry
+    \entry{ROP-Chain}{article}{}
+      \name{author}{3}{}{%
+        {{hash=35b859c181d88c4970a9903dfb0ffd1d}{%
+           family={Borrello},
+           familyi={B\bibinitperiod},
+           given={Pietro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=838313855b1318a89487737723f117a9}{%
+           family={Coppa},
+           familyi={C\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=15733f28f5b2f56920a80612e2344d89}{%
+           family={D'Elia},
+           familyi={D\bibinitperiod},
+           given={Daniele\bibnamedelima Cono},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b6208c49b03c79556ab3a84efa01356}
+      \strng{fullhash}{9b6208c49b03c79556ab3a84efa01356}
+      \strng{bibnamehash}{9b6208c49b03c79556ab3a84efa01356}
+      \strng{authorbibnamehash}{9b6208c49b03c79556ab3a84efa01356}
+      \strng{authornamehash}{9b6208c49b03c79556ab3a84efa01356}
+      \strng{authorfullhash}{9b6208c49b03c79556ab3a84efa01356}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{Hiding in the Particles: When Return-Oriented Programming Meets Program Obfuscation}
+      \field{volume}{abs/2012.06658}
+      \field{year}{2020}
+      \verb{eprint}
+      \verb 2012.06658
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2012.06658
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2012.06658
+      \endverb
+    \endentry
+    \entry{StackGuard-bypass}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b77226a3e3848163dd3c521234201d2a}{%
+           family={Bulba},
+           familyi={B\bibinitperiod}}}%
+        {{hash=bf7b534c2fbf17338e4782e8e8807341}{%
+           family={Kil3r},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{0aad9aec8f907ddaa5966cef7a8af841}
+      \strng{fullhash}{0aad9aec8f907ddaa5966cef7a8af841}
+      \strng{bibnamehash}{0aad9aec8f907ddaa5966cef7a8af841}
+      \strng{authorbibnamehash}{0aad9aec8f907ddaa5966cef7a8af841}
+      \strng{authornamehash}{0aad9aec8f907ddaa5966cef7a8af841}
+      \strng{authorfullhash}{0aad9aec8f907ddaa5966cef7a8af841}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Phrack Magazine}
+      \field{title}{Bypassing StackGuard and StackShield}
+      \field{volume}{56}
+      \field{year}{2000}
+    \endentry
+    \entry{SEI-CERT-RULE09}{site}{}
+      \name{author}{1}{}{%
+        {{hash=7c130656cf0cc881be0907419be6c7a4}{%
+           family={Burch},
+           familyi={B\bibinitperiod},
+           given={Hal},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c130656cf0cc881be0907419be6c7a4}
+      \strng{fullhash}{7c130656cf0cc881be0907419be6c7a4}
+      \strng{bibnamehash}{7c130656cf0cc881be0907419be6c7a4}
+      \strng{authorbibnamehash}{7c130656cf0cc881be0907419be6c7a4}
+      \strng{authornamehash}{7c130656cf0cc881be0907419be6c7a4}
+      \strng{authorfullhash}{7c130656cf0cc881be0907419be6c7a4}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://wiki.sei.cmu.edu/confluence/display/c/FIO30-C.+Exclude+user+input+from+format+strings
+      \endverb
+      \verb{url}
+      \verb https://wiki.sei.cmu.edu/confluence/display/c/FIO30-C.+Exclude+user+input+from+format+strings
+      \endverb
+    \endentry
+    \entry{GOT-OVERWRITE}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7c1ac840c5f086bd11c4676291546c12}{%
+           family={c0ntex},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c1ac840c5f086bd11c4676291546c12}
+      \strng{fullhash}{7c1ac840c5f086bd11c4676291546c12}
+      \strng{bibnamehash}{7c1ac840c5f086bd11c4676291546c12}
+      \strng{authorbibnamehash}{7c1ac840c5f086bd11c4676291546c12}
+      \strng{authornamehash}{7c1ac840c5f086bd11c4676291546c12}
+      \strng{authorfullhash}{7c1ac840c5f086bd11c4676291546c12}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to Hijack the Global Offset Table With Pointers for Root Shells}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb http://www.infosecwriters.com/text_resources/pdf/GOT_Hijack.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.infosecwriters.com/text_resources/pdf/GOT_Hijack.pdf
+      \endverb
+    \endentry
+    \entry{Gadgets-unintended}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=93330b46aec6ec2750a8adced7fef821}{%
+           family={Carlini},
+           familyi={C\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=45a593fbd4e5b2f4d60199ccfdb4fe59}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego, CA}%
+      }
+      \list{publisher}{1}{%
+        {USENIX Association}%
+      }
+      \strng{namehash}{1841abd848ac2f8ced0f1b456d15ec8c}
+      \strng{fullhash}{1841abd848ac2f8ced0f1b456d15ec8c}
+      \strng{bibnamehash}{1841abd848ac2f8ced0f1b456d15ec8c}
+      \strng{authorbibnamehash}{1841abd848ac2f8ced0f1b456d15ec8c}
+      \strng{authornamehash}{1841abd848ac2f8ced0f1b456d15ec8c}
+      \strng{authorfullhash}{1841abd848ac2f8ced0f1b456d15ec8c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{23rd USENIX Security Symposium (USENIX Security 14)}
+      \field{isbn}{978-1-931971-15-7}
+      \field{month}{8}
+      \field{title}{{ROP} is Still Dangerous: Breaking Modern Defenses}
+      \field{year}{2014}
+      \field{pages}{385\bibrangedash 399}
+      \range{pages}{15}
+      \verb{urlraw}
+      \verb https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/carlini
+      \endverb
+      \verb{url}
+      \verb https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/carlini
+      \endverb
+    \endentry
+    \entry{Syscall-table}{site}{}
+      \name{author}{1}{}{%
+        {{hash=b58a06d374e571858aad5c5fb46f0926}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Ryan\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b58a06d374e571858aad5c5fb46f0926}
+      \strng{fullhash}{b58a06d374e571858aad5c5fb46f0926}
+      \strng{bibnamehash}{b58a06d374e571858aad5c5fb46f0926}
+      \strng{authorbibnamehash}{b58a06d374e571858aad5c5fb46f0926}
+      \strng{authornamehash}{b58a06d374e571858aad5c5fb46f0926}
+      \strng{authorfullhash}{b58a06d374e571858aad5c5fb46f0926}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
+      \endverb
+      \verb{url}
+      \verb https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
+      \endverb
+    \endentry
+    \entry{ROP-Z80}{article}{}
+      \name{author}{6}{}{%
+        {{hash=7d4115b0dd5b77ce6bced204591b4017}{%
+           family={Checkoway},
+           familyi={C\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d5b7fbf06aa04cd980382f3766e04df9}{%
+           family={Feldman},
+           familyi={F\bibinitperiod},
+           given={{Ariel J.}},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2c6df3d53b9cea756fe0b6143a147d86}{%
+           family={Kantor},
+           familyi={K\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=552496b726890137b1c6b0f38182583b}{%
+           family={{Alex Halderman}},
+           familyi={A\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1527a830397c4e7dfb4604830ab3ae90}{%
+           family={Felten},
+           familyi={F\bibinitperiod},
+           given={{Edward W.}},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8e72ae85d346fe6dea613a2090664c28}{%
+           family={Shacham},
+           familyi={S\bibinitperiod},
+           given={Hovav},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English (US)}%
+      }
+      \strng{namehash}{146e3b0f144dac0526a8ffbfb5667be8}
+      \strng{fullhash}{b3a7571e1d00d124e85ed0cc54affd71}
+      \strng{bibnamehash}{146e3b0f144dac0526a8ffbfb5667be8}
+      \strng{authorbibnamehash}{146e3b0f144dac0526a8ffbfb5667be8}
+      \strng{authornamehash}{146e3b0f144dac0526a8ffbfb5667be8}
+      \strng{authorfullhash}{b3a7571e1d00d124e85ed0cc54affd71}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Publisher Copyright: {©} EVT/WOTE 2009 - 2009 Electronic Voting Technology Workshop/Workshop on Trustworthy Elections. All rights reserved. Copyright: Copyright 2020 Elsevier B.V., All rights reserved.; 2009 Electronic Voting Technology Workshop/Workshop on Trustworthy Elections, EVT/WOTE 2009, Held in Conjunction with the 18th USENIX Security Symposium ; Conference date: 10-08-2009 Through 11-08-2009}
+      \field{title}{Can DREs provide long-lasting security? The case of return-oriented programming and the AVC advantage}
+      \field{year}{2009}
+    \endentry
+    \entry{Stackguard}{inproceedings}{}
+      \name{author}{10}{}{%
+        {{hash=3da2a701cd7b15a90db42961cd6ec250}{%
+           family={Cowan},
+           familyi={C\bibinitperiod},
+           given={Crispan},
+           giveni={C\bibinitperiod}}}%
+        {{hash=10ca8a887c5327fcb621a49ea0455d79}{%
+           family={Pu},
+           familyi={P\bibinitperiod},
+           given={Calton},
+           giveni={C\bibinitperiod}}}%
+        {{hash=132accc21cc54ba569d20c972beebac8}{%
+           family={Maier},
+           familyi={M\bibinitperiod},
+           given={Dave},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e0c84b8c0e0e0f627dffa0181f7ea02d}{%
+           family={Walpole},
+           familyi={W\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c642f8e6ba974c9a08bab9ec73f705e6}{%
+           family={Bakke},
+           familyi={B\bibinitperiod},
+           given={Peat},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2046dbe031527eeaf6cda770733f01f7}{%
+           family={Beattie},
+           familyi={B\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a839b9c0b8bcd2e0bac43c053c6a67cc}{%
+           family={Grier},
+           familyi={G\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+        {{hash=41236c35279dbc1dee1c4e6550583659}{%
+           family={Wagle},
+           familyi={W\bibinitperiod},
+           given={Perry},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ab5652acf0de64074be2a35319b7c36a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=5430cd028559b95c373f6dca687ce6aa}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {San Antonio, TX}%
+      }
+      \strng{namehash}{9e02d3bed3070dbaf3ade676310eef61}
+      \strng{fullhash}{d03f1f13b11b3724968ae61971f258ed}
+      \strng{bibnamehash}{9e02d3bed3070dbaf3ade676310eef61}
+      \strng{authorbibnamehash}{9e02d3bed3070dbaf3ade676310eef61}
+      \strng{authornamehash}{9e02d3bed3070dbaf3ade676310eef61}
+      \strng{authorfullhash}{d03f1f13b11b3724968ae61971f258ed}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{USENIX security symposium}
+      \field{title}{Stackguard: automatic adaptive detection and prevention of buffer-overflow attacks.}
+      \field{volume}{98}
+      \field{year}{1998}
+      \field{pages}{63\bibrangedash 78}
+      \range{pages}{16}
+    \endentry
+    \entry{x86-64-General}{site}{}
+      \name{author}{1}{}{%
+        {{hash=3770bf6e9e1b9e3e8447a1cf67b622ad}{%
+           family={cs.brown.edu},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{3770bf6e9e1b9e3e8447a1cf67b622ad}
+      \strng{fullhash}{3770bf6e9e1b9e3e8447a1cf67b622ad}
+      \strng{bibnamehash}{3770bf6e9e1b9e3e8447a1cf67b622ad}
+      \strng{authorbibnamehash}{3770bf6e9e1b9e3e8447a1cf67b622ad}
+      \strng{authornamehash}{3770bf6e9e1b9e3e8447a1cf67b622ad}
+      \strng{authorfullhash}{3770bf6e9e1b9e3e8447a1cf67b622ad}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://cs.brown.edu/courses/csci1310/2020/notes/l08.html
+      \endverb
+      \verb{url}
+      \verb https://cs.brown.edu/courses/csci1310/2020/notes/l08.html
+      \endverb
+    \endentry
+    \entry{Stack-op2}{site}{}
+      \name{author}{1}{}{%
+        {{hash=958326e1ee0163766199fd6eae22dfd1}{%
+           family={cs.umd.edu},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{958326e1ee0163766199fd6eae22dfd1}
+      \strng{fullhash}{958326e1ee0163766199fd6eae22dfd1}
+      \strng{bibnamehash}{958326e1ee0163766199fd6eae22dfd1}
+      \strng{authorbibnamehash}{958326e1ee0163766199fd6eae22dfd1}
+      \strng{authornamehash}{958326e1ee0163766199fd6eae22dfd1}
+      \strng{authorfullhash}{958326e1ee0163766199fd6eae22dfd1}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://web.archive.org/web/20130225162302/http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/stack.html
+      \endverb
+      \verb{url}
+      \verb https://web.archive.org/web/20130225162302/http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Mips/stack.html
+      \endverb
+    \endentry
+    \entry{ShadowStack}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=b9d7f6a79ea7e1697886287a46b973aa}{%
+           family={Dang},
+           familyi={D\bibinitperiod},
+           given={Thurston\bibnamedelima HY},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=17ffd2f5b5700ba303244a39d1bbd922}{%
+           family={Maniatis},
+           familyi={M\bibinitperiod},
+           given={Petros},
+           giveni={P\bibinitperiod}}}%
+        {{hash=45a593fbd4e5b2f4d60199ccfdb4fe59}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{48eab0bf485217fb910d3d32e3dc5957}
+      \strng{fullhash}{48eab0bf485217fb910d3d32e3dc5957}
+      \strng{bibnamehash}{48eab0bf485217fb910d3d32e3dc5957}
+      \strng{authorbibnamehash}{48eab0bf485217fb910d3d32e3dc5957}
+      \strng{authornamehash}{48eab0bf485217fb910d3d32e3dc5957}
+      \strng{authorfullhash}{48eab0bf485217fb910d3d32e3dc5957}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security}
+      \field{title}{The performance cost of shadow stacks and stack canaries}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{555\bibrangedash 566}
+      \range{pages}{12}
+    \endentry
+    \entry{ROP-architecture}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b5e2c0666c2cba31ea94ffa53b9e89d9}{%
+           family={Davi},
+           familyi={D\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1ef0c377dd3d4449f949ff3fedd1a7f6}{%
+           family={Sadeghi},
+           familyi={S\bibinitperiod},
+           given={Ahmad-Reza},
+           giveni={A\bibinithyphendelim R\bibinitperiod}}}%
+        {{hash=f3699a34d0aa958a803ec390039a7aae}{%
+           family={Winandy},
+           familyi={W\bibinitperiod},
+           given={Marcel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hong Kong, China}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{0dd64a586e7fb8405542064764352ef1}
+      \strng{fullhash}{0dd64a586e7fb8405542064764352ef1}
+      \strng{bibnamehash}{0dd64a586e7fb8405542064764352ef1}
+      \strng{authorbibnamehash}{0dd64a586e7fb8405542064764352ef1}
+      \strng{authornamehash}{0dd64a586e7fb8405542064764352ef1}
+      \strng{authorfullhash}{0dd64a586e7fb8405542064764352ef1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 6th ACM Symposium on Information, Computer and Communications Security}
+      \field{isbn}{9781450305648}
+      \field{series}{ASIACCS '11}
+      \field{title}{ROPdefender: A Detection Tool to Defend against Return-Oriented Programming Attacks}
+      \field{year}{2011}
+      \field{pages}{40\bibrangedash 51}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/1966913.1966920
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1966913.1966920
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1966913.1966920
+      \endverb
+      \keyw{return-oriented programming,detection,binary instrumentation}
+    \endentry
+    \entry{Heapoverflow-jpeg}{site}{}
+      \name{author}{1}{}{%
+        {{hash=421e07f572cd904df7aa9685ab637f0e}{%
+           family={designer},
+           familyi={d\bibinitperiod},
+           given={Solar},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{421e07f572cd904df7aa9685ab637f0e}
+      \strng{fullhash}{421e07f572cd904df7aa9685ab637f0e}
+      \strng{bibnamehash}{421e07f572cd904df7aa9685ab637f0e}
+      \strng{authorbibnamehash}{421e07f572cd904df7aa9685ab637f0e}
+      \strng{authornamehash}{421e07f572cd904df7aa9685ab637f0e}
+      \strng{authorfullhash}{421e07f572cd904df7aa9685ab637f0e}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{year}{2000}
+      \verb{urlraw}
+      \verb https://www.openwall.com/articles/JPEG-COM-Marker-Vulnerability#exploit
+      \endverb
+      \verb{url}
+      \verb https://www.openwall.com/articles/JPEG-COM-Marker-Vulnerability#exploit
+      \endverb
+    \endentry
+    \entry{GDB}{site}{}
+      \name{author}{1}{}{%
+        {{hash=54108b4d6b998dd64c08da74cb03835b}{%
+           family={developers},
+           familyi={d\bibinitperiod},
+           given={GDB},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{54108b4d6b998dd64c08da74cb03835b}
+      \strng{fullhash}{54108b4d6b998dd64c08da74cb03835b}
+      \strng{bibnamehash}{54108b4d6b998dd64c08da74cb03835b}
+      \strng{authorbibnamehash}{54108b4d6b998dd64c08da74cb03835b}
+      \strng{authornamehash}{54108b4d6b998dd64c08da74cb03835b}
+      \strng{authorfullhash}{54108b4d6b998dd64c08da74cb03835b}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GDB: The GNU Project Debugger}
+      \verb{urlraw}
+      \verb https://www.sourceware.org/gdb/
+      \endverb
+      \verb{url}
+      \verb https://www.sourceware.org/gdb/
+      \endverb
+    \endentry
+    \entry{Integeroverflow}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=e7a4978a28510c760b5e32e67b89eeb9}{%
+           family={Dietz},
+           familyi={D\bibinitperiod},
+           given={Will},
+           giveni={W\bibinitperiod}}}%
+        {{hash=24bece773e8873ff8f03d9a3eced56df}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=43d6b8ac43fd2f45f710ff8a73b2c942}{%
+           family={Regehr},
+           familyi={R\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1bbfd49b96c18edb5a0c84c94c3fa6c4}{%
+           family={Adve},
+           familyi={A\bibinitperiod},
+           given={Vikram},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Zurich, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Press}%
+      }
+      \strng{namehash}{3a5835820dcd6310f05eb7165ccd9ec1}
+      \strng{fullhash}{ac310aa1fb533004f5c83b569e50bfe7}
+      \strng{bibnamehash}{3a5835820dcd6310f05eb7165ccd9ec1}
+      \strng{authorbibnamehash}{3a5835820dcd6310f05eb7165ccd9ec1}
+      \strng{authornamehash}{3a5835820dcd6310f05eb7165ccd9ec1}
+      \strng{authorfullhash}{ac310aa1fb533004f5c83b569e50bfe7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 34th International Conference on Software Engineering}
+      \field{isbn}{9781467310673}
+      \field{series}{ICSE '12}
+      \field{title}{Understanding Integer Overflow in C/C++}
+      \field{year}{2012}
+      \field{pages}{760\bibrangedash 770}
+      \range{pages}{11}
+    \endentry
+    \entry{PLT-GOT2}{site}{}
+      \name{author}{1}{}{%
+        {{hash=1b9dda5019c5a02c64d73db77b179678}{%
+           family={Emporium},
+           familyi={E\bibinitperiod},
+           given={ROP},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b9dda5019c5a02c64d73db77b179678}
+      \strng{fullhash}{1b9dda5019c5a02c64d73db77b179678}
+      \strng{bibnamehash}{1b9dda5019c5a02c64d73db77b179678}
+      \strng{authorbibnamehash}{1b9dda5019c5a02c64d73db77b179678}
+      \strng{authornamehash}{1b9dda5019c5a02c64d73db77b179678}
+      \strng{authorfullhash}{1b9dda5019c5a02c64d73db77b179678}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://ropemporium.com/guide.html
+      \endverb
+      \verb{url}
+      \verb https://ropemporium.com/guide.html
+      \endverb
+    \endentry
+    \entry{return-to-csu-challenge}{site}{}
+      \name{author}{1}{}{%
+        {{hash=1b9dda5019c5a02c64d73db77b179678}{%
+           family={Emporium},
+           familyi={E\bibinitperiod},
+           given={ROP},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b9dda5019c5a02c64d73db77b179678}
+      \strng{fullhash}{1b9dda5019c5a02c64d73db77b179678}
+      \strng{bibnamehash}{1b9dda5019c5a02c64d73db77b179678}
+      \strng{authorbibnamehash}{1b9dda5019c5a02c64d73db77b179678}
+      \strng{authornamehash}{1b9dda5019c5a02c64d73db77b179678}
+      \strng{authorfullhash}{1b9dda5019c5a02c64d73db77b179678}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://ropemporium.com/challenge/ret2csu.html
+      \endverb
+      \verb{url}
+      \verb https://ropemporium.com/challenge/ret2csu.html
+      \endverb
+    \endentry
+    \entry{JOP2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=252dce99ccb65a312d375c929017bfeb}{%
+           family={Erdődi},
+           familyi={E\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{252dce99ccb65a312d375c929017bfeb}
+      \strng{fullhash}{252dce99ccb65a312d375c929017bfeb}
+      \strng{bibnamehash}{252dce99ccb65a312d375c929017bfeb}
+      \strng{authorbibnamehash}{252dce99ccb65a312d375c929017bfeb}
+      \strng{authornamehash}{252dce99ccb65a312d375c929017bfeb}
+      \strng{authorfullhash}{252dce99ccb65a312d375c929017bfeb}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2013 IEEE 17th International Conference on Intelligent Engineering Systems (INES)}
+      \field{title}{Attacking x86 windows binaries by jump oriented programming}
+      \field{year}{2013}
+      \field{pages}{333\bibrangedash 338}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/INES.2013.6632837
+      \endverb
+    \endentry
+    \entry{CFI1}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=2d29333108d79bea087b2d9fa6885220}{%
+           family={Erlingsson},
+           familyi={E\bibinitperiod},
+           given={Ulfar},
+           giveni={U\bibinitperiod}}}%
+        {{hash=5c20273d62bb6bd83f187e4131d7aef5}{%
+           family={Abadi},
+           familyi={A\bibinitperiod},
+           given={Martı́n},
+           giveni={M\bibinitperiod}}}%
+        {{hash=84a4e1b11cbda388728eba6c9872c2b8}{%
+           family={Vrable},
+           familyi={V\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8836a39dd4362973525947badc96d6d0}{%
+           family={Budiu},
+           familyi={B\bibinitperiod},
+           given={Mihai},
+           giveni={M\bibinitperiod}}}%
+        {{hash=471af2e4944d8b6b2a6dc6480da55ec5}{%
+           family={Necula},
+           familyi={N\bibinitperiod},
+           given={George\bibnamedelima C},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{dac6b643ffb5b806621ab6991b9e4236}
+      \strng{fullhash}{7703f38b813982dcd0b028bb5cc601f2}
+      \strng{bibnamehash}{dac6b643ffb5b806621ab6991b9e4236}
+      \strng{authorbibnamehash}{dac6b643ffb5b806621ab6991b9e4236}
+      \strng{authornamehash}{dac6b643ffb5b806621ab6991b9e4236}
+      \strng{authorfullhash}{7703f38b813982dcd0b028bb5cc601f2}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 7th symposium on Operating systems design and implementation}
+      \field{title}{XFI: Software guards for system address spaces}
+      \field{year}{2006}
+      \field{pages}{75\bibrangedash 88}
+      \range{pages}{14}
+    \endentry
+    \entry{CFI2}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=2d29333108d79bea087b2d9fa6885220}{%
+           family={Erlingsson},
+           familyi={E\bibinitperiod},
+           given={Ulfar},
+           giveni={U\bibinitperiod}}}%
+        {{hash=5c20273d62bb6bd83f187e4131d7aef5}{%
+           family={Abadi},
+           familyi={A\bibinitperiod},
+           given={Martı́n},
+           giveni={M\bibinitperiod}}}%
+        {{hash=84a4e1b11cbda388728eba6c9872c2b8}{%
+           family={Vrable},
+           familyi={V\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8836a39dd4362973525947badc96d6d0}{%
+           family={Budiu},
+           familyi={B\bibinitperiod},
+           given={Mihai},
+           giveni={M\bibinitperiod}}}%
+        {{hash=471af2e4944d8b6b2a6dc6480da55ec5}{%
+           family={Necula},
+           familyi={N\bibinitperiod},
+           given={George\bibnamedelima C},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{dac6b643ffb5b806621ab6991b9e4236}
+      \strng{fullhash}{7703f38b813982dcd0b028bb5cc601f2}
+      \strng{bibnamehash}{dac6b643ffb5b806621ab6991b9e4236}
+      \strng{authorbibnamehash}{dac6b643ffb5b806621ab6991b9e4236}
+      \strng{authornamehash}{dac6b643ffb5b806621ab6991b9e4236}
+      \strng{authorfullhash}{7703f38b813982dcd0b028bb5cc601f2}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 7th symposium on Operating systems design and implementation}
+      \field{title}{XFI: Software guards for system address spaces}
+      \field{year}{2006}
+      \field{pages}{75\bibrangedash 88}
+      \range{pages}{14}
+    \endentry
+    \entry{Pro-Police}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0a2d2098de0886a799919539f99fe9dc}{%
+           family={Etoh},
+           familyi={E\bibinitperiod},
+           given={Hiroaki},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a5a2f3c5f2007eed51433a9384d9791f}{%
+           family={Yoda},
+           familyi={Y\bibinitperiod},
+           given={Kunikazu},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0d13dc5cdd12513e2795e86868775b1}
+      \strng{fullhash}{d0d13dc5cdd12513e2795e86868775b1}
+      \strng{bibnamehash}{d0d13dc5cdd12513e2795e86868775b1}
+      \strng{authorbibnamehash}{d0d13dc5cdd12513e2795e86868775b1}
+      \strng{authornamehash}{d0d13dc5cdd12513e2795e86868775b1}
+      \strng{authorfullhash}{d0d13dc5cdd12513e2795e86868775b1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IPSJ SIGNotes Computer Security (CSEC)}
+      \field{month}{01}
+      \field{title}{ProPolice: Improved stack-smashing attack detection}
+      \field{volume}{14}
+      \field{year}{2002}
+    \endentry
+    \entry{ROP-AtmelAVR}{article}{}
+      \name{author}{2}{}{%
+        {{hash=72c7b067331a01365d73ef4238bf636c}{%
+           family={Francillon},
+           familyi={F\bibinitperiod},
+           given={Aurélien},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a974433309a9239775bca1e450ef4278}{%
+           family={Castelluccia},
+           familyi={C\bibinitperiod},
+           given={Claude},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Alexandria, Virginia, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{c8de42ad66b4cfd3f02b1d3e226c8a5a}
+      \strng{fullhash}{c8de42ad66b4cfd3f02b1d3e226c8a5a}
+      \strng{bibnamehash}{c8de42ad66b4cfd3f02b1d3e226c8a5a}
+      \strng{authorbibnamehash}{c8de42ad66b4cfd3f02b1d3e226c8a5a}
+      \strng{authornamehash}{c8de42ad66b4cfd3f02b1d3e226c8a5a}
+      \strng{authorfullhash}{c8de42ad66b4cfd3f02b1d3e226c8a5a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Harvard architecture CPU design is common in the embedded world. Examples of Harvard-based architecture devices are the Mica family of wireless sensors. Mica motes have limited memory and can process only very small packets. Stack-based buffer overflow techniques that inject code into the stack and then execute it are therefore not applicable. It has been a common belief that code injection is impossible on Harvard architectures. This paper presents a remote code injection attack for Mica sensors. We show how to exploit program vulnerabilities to permanently inject any piece of code into the program memory of an Atmel AVR-based sensor. To our knowledge, this is the first result that presents a code injection technique for such devices. Previous work only succeeded in injecting data or performing transient attacks. Injecting permanent code is more powerful since the attacker can gain full control of the target sensor. We also show that this attack can be used to inject a worm that can propagate through the wireless sensor network and possibly create a sensor botnet. Our attack combines different techniques such as return oriented programming and fake stack injection. We present implementation details and suggest some counter-measures.}
+      \field{booktitle}{Proceedings of the 15th ACM Conference on Computer and Communications Security}
+      \field{isbn}{9781595938107}
+      \field{series}{CCS '08}
+      \field{title}{Code Injection Attacks on Harvard-Architecture Devices}
+      \field{year}{2008}
+      \field{pages}{15\bibrangedash 26}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1145/1455770.1455775
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1455770.1455775
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1455770.1455775
+      \endverb
+      \keyw{embedded devices,wireless sensor networks,buffer overflow,computer worms,gadgets,code injection attacks,return oriented programming,harvard architecture}
+    \endentry
+    \entry{ZEROED-register}{site}{}
+      \name{author}{1}{}{%
+        {{hash=baa9d9b599fad957d91e61a9757bacae}{%
+           family={Gj.},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{baa9d9b599fad957d91e61a9757bacae}
+      \strng{fullhash}{baa9d9b599fad957d91e61a9757bacae}
+      \strng{bibnamehash}{baa9d9b599fad957d91e61a9757bacae}
+      \strng{authorbibnamehash}{baa9d9b599fad957d91e61a9757bacae}
+      \strng{authornamehash}{baa9d9b599fad957d91e61a9757bacae}
+      \strng{authorfullhash}{baa9d9b599fad957d91e61a9757bacae}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://stackoverflow.com/a/4831763
+      \endverb
+      \verb{url}
+      \verb https://stackoverflow.com/a/4831763
+      \endverb
+    \endentry
+    \entry{find-libc-version}{site}{}
+      \name{author}{1}{}{%
+        {{hash=dc56bc33e196d040032d060be72a659e}{%
+           family={gr4n173},
+           familyi={g\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc56bc33e196d040032d060be72a659e}
+      \strng{fullhash}{dc56bc33e196d040032d060be72a659e}
+      \strng{bibnamehash}{dc56bc33e196d040032d060be72a659e}
+      \strng{authorbibnamehash}{dc56bc33e196d040032d060be72a659e}
+      \strng{authornamehash}{dc56bc33e196d040032d060be72a659e}
+      \strng{authorfullhash}{dc56bc33e196d040032d060be72a659e}
+      \field{sortinit}{g}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://medium.com/@gr4n173/pwn-ret2libc-7c8b7334725f
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@gr4n173/pwn-ret2libc-7c8b7334725f
+      \endverb
+    \endentry
+    \entry{Radare2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=81ca330282186a481157b89098ce9959}{%
+           family={group},
+           familyi={g\bibinitperiod},
+           given={Radare},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{81ca330282186a481157b89098ce9959}
+      \strng{fullhash}{81ca330282186a481157b89098ce9959}
+      \strng{bibnamehash}{81ca330282186a481157b89098ce9959}
+      \strng{authorbibnamehash}{81ca330282186a481157b89098ce9959}
+      \strng{authornamehash}{81ca330282186a481157b89098ce9959}
+      \strng{authorfullhash}{81ca330282186a481157b89098ce9959}
+      \field{sortinit}{g}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Radare2}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://github.com/radareorg/radare2
+      \endverb
+      \verb{url}
+      \verb https://github.com/radareorg/radare2
+      \endverb
+    \endentry
+    \entry{CET}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=d827f63f4a111523252cbe38fc5ba6d0}{%
+           family={H.J.\bibnamedelimi Lu},
+           familyi={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Intel},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d827f63f4a111523252cbe38fc5ba6d0}
+      \strng{fullhash}{d827f63f4a111523252cbe38fc5ba6d0}
+      \strng{bibnamehash}{d827f63f4a111523252cbe38fc5ba6d0}
+      \strng{authorbibnamehash}{d827f63f4a111523252cbe38fc5ba6d0}
+      \strng{authornamehash}{d827f63f4a111523252cbe38fc5ba6d0}
+      \strng{authorfullhash}{d827f63f4a111523252cbe38fc5ba6d0}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Control-flow Enforcement Technology}
+      \verb{urlraw}
+      \verb https://lpc.events/event/2/contributions/147/attachments/72/83/CET-LPC-2018.pdf
+      \endverb
+      \verb{url}
+      \verb https://lpc.events/event/2/contributions/147/attachments/72/83/CET-LPC-2018.pdf
+      \endverb
+      \warn{\item Entry 'CET' (bibliography/bibliography.bib): Invalid format 'November, 2018' of date field 'date' - ignoring}
+    \endentry
+    \entry{Heapoverflow}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=9d2ae48c1e774ec98cc8159d3865e071}{%
+           family={Heelan},
+           familyi={H\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9d3b5b27146fa0f3c29e8e93781d1fa0}{%
+           family={Melham},
+           familyi={M\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b4aa934119a9d2ed6e4c21b1a7f20424}{%
+           family={Kroening},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London, United Kingdom}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{9d000aaed82c72d865898dc54f93fbf8}
+      \strng{fullhash}{9d000aaed82c72d865898dc54f93fbf8}
+      \strng{bibnamehash}{9d000aaed82c72d865898dc54f93fbf8}
+      \strng{authorbibnamehash}{9d000aaed82c72d865898dc54f93fbf8}
+      \strng{authornamehash}{9d000aaed82c72d865898dc54f93fbf8}
+      \strng{authorfullhash}{9d000aaed82c72d865898dc54f93fbf8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security}
+      \field{isbn}{9781450367479}
+      \field{series}{CCS '19}
+      \field{title}{Gollum: Modular and Greybox Exploit Generation for Heap Overflows in Interpreters}
+      \field{year}{2019}
+      \field{pages}{1689\bibrangedash 1706}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1145/3319535.3354224
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3319535.3354224
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3319535.3354224
+      \endverb
+      \keyw{primitive search,greybox,exploit generation}
+    \endentry
+    \entry{Integeroverflow2}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=1a0371e0a62b44d30cc131417169cf7c}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Zhen},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=83116a9cae1a3a077dbb81232cc33719}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Xiaowei},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienna, Austria}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{207d480544e5284731a8b4722c9566a5}
+      \strng{fullhash}{207d480544e5284731a8b4722c9566a5}
+      \strng{bibnamehash}{207d480544e5284731a8b4722c9566a5}
+      \strng{authorbibnamehash}{207d480544e5284731a8b4722c9566a5}
+      \strng{authornamehash}{207d480544e5284731a8b4722c9566a5}
+      \strng{authorfullhash}{207d480544e5284731a8b4722c9566a5}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The 16th International Conference on Availability, Reliability and Security}
+      \field{isbn}{9781450390514}
+      \field{series}{ARES 2021}
+      \field{title}{Integer Overflow Detection with Delayed Runtime Test}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1145/3465481.3465771
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3465481.3465771
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3465481.3465771
+      \endverb
+      \keyw{software vulnerability,static analysis,vulnerability detection,integer overflow}
+    \endentry
+    \entry{ISA-x86-64}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=ff97a9fdede09eaf6e1c8ec9f6a61dd5}{%
+           family={Intel},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \strng{fullhash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \strng{bibnamehash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \strng{authorbibnamehash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \strng{authornamehash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \strng{authorfullhash}{ff97a9fdede09eaf6e1c8ec9f6a61dd5}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Intel® 64 and IA-32 Architectures Software Developer’s Manual}
+    \endentry
+    \entry{GOT-OVERWRITE-MITIGATION}{article}{}
+      \name{author}{4}{}{%
+        {{hash=4f5b6de1c66972196589e3d6d4242346}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Seunghoon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4a59f47f99cb06fdb7658d1ebaa27bea}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Jaejoon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4ea1407b54db6c25fd02bf73b7f47333}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Hyukjin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9c6e09c34b919ddaf3e9d38aff138928}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={Dongkyoo},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f672ae85caa626eb7585418a8b065e8}
+      \strng{fullhash}{edf4672cc0ec335679629e0d2a590b93}
+      \strng{bibnamehash}{5f672ae85caa626eb7585418a8b065e8}
+      \strng{authorbibnamehash}{5f672ae85caa626eb7585418a8b065e8}
+      \strng{authornamehash}{5f672ae85caa626eb7585418a8b065e8}
+      \strng{authorfullhash}{edf4672cc0ec335679629e0d2a590b93}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{A CFI Countermeasure Against GOT Overwrite Attacks}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{36267\bibrangedash 36280}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2020.2975037
+      \endverb
+    \endentry
+    \entry{Syscall-table-UP}{site}{}
+      \name{author}{1}{}{%
+        {{hash=40c90d0dccfca27649de11306356d6c1}{%
+           family={K.V},
+           familyi={K\bibinitperiod},
+           given={Aneesh\bibnamedelima Kumar},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{40c90d0dccfca27649de11306356d6c1}
+      \strng{fullhash}{40c90d0dccfca27649de11306356d6c1}
+      \strng{bibnamehash}{40c90d0dccfca27649de11306356d6c1}
+      \strng{authorbibnamehash}{40c90d0dccfca27649de11306356d6c1}
+      \strng{authornamehash}{40c90d0dccfca27649de11306356d6c1}
+      \strng{authorfullhash}{40c90d0dccfca27649de11306356d6c1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://github.com/torvalds/linux/blob/master/arch/x86/entry/syscalls/syscall_64.tbl
+      \endverb
+      \verb{url}
+      \verb https://github.com/torvalds/linux/blob/master/arch/x86/entry/syscalls/syscall_64.tbl
+      \endverb
+    \endentry
+    \entry{Execve-linuxmanpage}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=7f32f61adec784489cc0fa2cefa610a3}{%
+           family={Kerrisk},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{fullhash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{bibnamehash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{authorbibnamehash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{authornamehash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{authorfullhash}{7f32f61adec784489cc0fa2cefa610a3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Linux Programmer's Manual}
+      \verb{urlraw}
+      \verb https://man7.org/linux/man-pages/man2/execve.2.html
+      \endverb
+      \verb{url}
+      \verb https://man7.org/linux/man-pages/man2/execve.2.html
+      \endverb
+    \endentry
+    \entry{Stack-register}{site}{}
+      \name{author}{1}{}{%
+        {{hash=3425ce2621e3a602c4a8dbdf02333b28}{%
+           family={Krzyzanowski},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3425ce2621e3a602c4a8dbdf02333b28}
+      \strng{fullhash}{3425ce2621e3a602c4a8dbdf02333b28}
+      \strng{bibnamehash}{3425ce2621e3a602c4a8dbdf02333b28}
+      \strng{authorbibnamehash}{3425ce2621e3a602c4a8dbdf02333b28}
+      \strng{authornamehash}{3425ce2621e3a602c4a8dbdf02333b28}
+      \strng{authorfullhash}{3425ce2621e3a602c4a8dbdf02333b28}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{year}{2018}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://people.cs.rutgers.edu/~pxk/419/notes/frames.html
+      \endverb
+      \verb{url}
+      \verb https://people.cs.rutgers.edu/~pxk/419/notes/frames.html
+      \endverb
+    \endentry
+    \entry{PLT-GOT-OVERWRITE}{site}{}
+      \name{author}{1}{}{%
+        {{hash=44f7856e171acf0b571dc02309b5d164}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Monish},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{44f7856e171acf0b571dc02309b5d164}
+      \strng{fullhash}{44f7856e171acf0b571dc02309b5d164}
+      \strng{bibnamehash}{44f7856e171acf0b571dc02309b5d164}
+      \strng{authorbibnamehash}{44f7856e171acf0b571dc02309b5d164}
+      \strng{authornamehash}{44f7856e171acf0b571dc02309b5d164}
+      \strng{authorfullhash}{44f7856e171acf0b571dc02309b5d164}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://infosecwriteups.com/got-overwrite-bb9ff5414628
+      \endverb
+      \verb{url}
+      \verb https://infosecwriteups.com/got-overwrite-bb9ff5414628
+      \endverb
+    \endentry
+    \entry{Stack-bufferoverflow2}{article}{}
+      \name{author}{5}{}{%
+        {{hash=38c903c3502c1bea26c5acdd274b920b}{%
+           family={Kuperman},
+           familyi={K\bibinitperiod},
+           given={Benjamin\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c504170dd003b720c396e3735c5b837c}{%
+           family={Brodley},
+           familyi={B\bibinitperiod},
+           given={Carla\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=fbd7a04926781422f5480a4363c67093}{%
+           family={Ozdoganoglu},
+           familyi={O\bibinitperiod},
+           given={Hilmi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a5702545eeea5bac9c95d5a9a828deb0}{%
+           family={Vijaykumar},
+           familyi={V\bibinitperiod},
+           given={T.\bibnamedelimi N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=20c95361887ff5b7f6a73799292af33f}{%
+           family={Jalote},
+           familyi={J\bibinitperiod},
+           given={Ankit},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{79fec430d67aef75522839e7ecd6c8b1}
+      \strng{fullhash}{057fabcc26ab902a63d8abb7dda1ee0c}
+      \strng{bibnamehash}{79fec430d67aef75522839e7ecd6c8b1}
+      \strng{authorbibnamehash}{79fec430d67aef75522839e7ecd6c8b1}
+      \strng{authornamehash}{79fec430d67aef75522839e7ecd6c8b1}
+      \strng{authorfullhash}{057fabcc26ab902a63d8abb7dda1ee0c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0001-0782}
+      \field{journaltitle}{Commun. ACM}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{Detection and Prevention of Stack Buffer Overflow Attacks}
+      \field{volume}{48}
+      \field{year}{2005}
+      \field{pages}{50\bibrangedash 56}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1145/1096000.1096004
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1096000.1096004
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1096000.1096004
+      \endverb
+    \endentry
+    \entry{Stack-pivoting}{site}{}
+      \name{author}{1}{}{%
+        {{hash=abb794fd59185795d443d2468ec53255}{%
+           family={L},
+           familyi={L\bibinitperiod},
+           given={Andrej},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{abb794fd59185795d443d2468ec53255}
+      \strng{fullhash}{abb794fd59185795d443d2468ec53255}
+      \strng{bibnamehash}{abb794fd59185795d443d2468ec53255}
+      \strng{authorbibnamehash}{abb794fd59185795d443d2468ec53255}
+      \strng{authornamehash}{abb794fd59185795d443d2468ec53255}
+      \strng{authorfullhash}{abb794fd59185795d443d2468ec53255}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://ir0nstone.gitbook.io/notes/types/stack/stack-pivoting
+      \endverb
+      \verb{url}
+      \verb https://ir0nstone.gitbook.io/notes/types/stack/stack-pivoting
+      \endverb
+    \endentry
+    \entry{Canary-bypass}{site}{}
+      \name{author}{1}{}{%
+        {{hash=abb794fd59185795d443d2468ec53255}{%
+           family={L},
+           familyi={L\bibinitperiod},
+           given={Andrej},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{abb794fd59185795d443d2468ec53255}
+      \strng{fullhash}{abb794fd59185795d443d2468ec53255}
+      \strng{bibnamehash}{abb794fd59185795d443d2468ec53255}
+      \strng{authorbibnamehash}{abb794fd59185795d443d2468ec53255}
+      \strng{authornamehash}{abb794fd59185795d443d2468ec53255}
+      \strng{authorfullhash}{abb794fd59185795d443d2468ec53255}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://ir0nstone.gitbook.io/notes/types/stack/canaries
+      \endverb
+      \verb{url}
+      \verb https://ir0nstone.gitbook.io/notes/types/stack/canaries
+      \endverb
+    \endentry
+    \entry{Canary-bypass-brute}{site}{}
+      \name{author}{1}{}{%
+        {{hash=e251cafa10f59d578e8e9ce3d35fc105}{%
+           family={LAB},
+           familyi={L\bibinitperiod},
+           given={NYU\bibnamedelima OSIRIS},
+           giveni={N\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{e251cafa10f59d578e8e9ce3d35fc105}
+      \strng{fullhash}{e251cafa10f59d578e8e9ce3d35fc105}
+      \strng{bibnamehash}{e251cafa10f59d578e8e9ce3d35fc105}
+      \strng{authorbibnamehash}{e251cafa10f59d578e8e9ce3d35fc105}
+      \strng{authornamehash}{e251cafa10f59d578e8e9ce3d35fc105}
+      \strng{authorfullhash}{e251cafa10f59d578e8e9ce3d35fc105}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://ctf101.org/binary-exploitation/stack-canaries/
+      \endverb
+      \verb{url}
+      \verb https://ctf101.org/binary-exploitation/stack-canaries/
+      \endverb
+    \endentry
+    \entry{unsafe-func}{site}{}
+      \name{author}{1}{}{%
+        {{hash=d42b75a8777645b2bb613f71ac8f2713}{%
+           family={Lam},
+           familyi={L\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d42b75a8777645b2bb613f71ac8f2713}
+      \strng{fullhash}{d42b75a8777645b2bb613f71ac8f2713}
+      \strng{bibnamehash}{d42b75a8777645b2bb613f71ac8f2713}
+      \strng{authorbibnamehash}{d42b75a8777645b2bb613f71ac8f2713}
+      \strng{authornamehash}{d42b75a8777645b2bb613f71ac8f2713}
+      \strng{authorfullhash}{d42b75a8777645b2bb613f71ac8f2713}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://w3.cs.jmu.edu/lam2mo/cs261/c_funcs.html
+      \endverb
+      \verb{url}
+      \verb https://w3.cs.jmu.edu/lam2mo/cs261/c_funcs.html
+      \endverb
+    \endentry
+    \entry{PEDA}{site}{}
+      \name{author}{1}{}{%
+        {{hash=7cbbab8bcab15c08539869f2516e3198}{%
+           family={Le},
+           familyi={L\bibinitperiod},
+           given={Long},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cbbab8bcab15c08539869f2516e3198}
+      \strng{fullhash}{7cbbab8bcab15c08539869f2516e3198}
+      \strng{bibnamehash}{7cbbab8bcab15c08539869f2516e3198}
+      \strng{authorbibnamehash}{7cbbab8bcab15c08539869f2516e3198}
+      \strng{authornamehash}{7cbbab8bcab15c08539869f2516e3198}
+      \strng{authorfullhash}{7cbbab8bcab15c08539869f2516e3198}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://github.com/longld/peda
+      \endverb
+      \verb{url}
+      \verb https://github.com/longld/peda
+      \endverb
+    \endentry
+    \entry{Canary2}{site}{}
+      \name{author}{1}{}{%
+        {{hash=35474f436c816a5c80c1bdfa19560350}{%
+           family={Lemmens},
+           familyi={L\bibinitperiod},
+           given={Michiel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{35474f436c816a5c80c1bdfa19560350}
+      \strng{fullhash}{35474f436c816a5c80c1bdfa19560350}
+      \strng{bibnamehash}{35474f436c816a5c80c1bdfa19560350}
+      \strng{authorbibnamehash}{35474f436c816a5c80c1bdfa19560350}
+      \strng{authornamehash}{35474f436c816a5c80c1bdfa19560350}
+      \strng{authorfullhash}{35474f436c816a5c80c1bdfa19560350}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.sans.org/blog/stack-canaries-gingerly-sidestepping-the-cage/
+      \endverb
+      \verb{url}
+      \verb https://www.sans.org/blog/stack-canaries-gingerly-sidestepping-the-cage/
+      \endverb
+    \endentry
+    \entry{Canary}{article}{}
+      \name{author}{1}{}{%
+        {{hash=db14b6a32da809e1ebf2a992b7c45624}{%
+           family={Lettieri},
+           familyi={L\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{db14b6a32da809e1ebf2a992b7c45624}
+      \strng{fullhash}{db14b6a32da809e1ebf2a992b7c45624}
+      \strng{bibnamehash}{db14b6a32da809e1ebf2a992b7c45624}
+      \strng{authorbibnamehash}{db14b6a32da809e1ebf2a992b7c45624}
+      \strng{authornamehash}{db14b6a32da809e1ebf2a992b7c45624}
+      \strng{authorfullhash}{db14b6a32da809e1ebf2a992b7c45624}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Stack Canaries}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://lettieri.iet.unipi.it/hacking/canaries.pdf
+      \endverb
+      \verb{url}
+      \verb https://lettieri.iet.unipi.it/hacking/canaries.pdf
+      \endverb
+    \endentry
+    \entry{LIBRARY}{site}{}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{title}{Librerie statiche e dinamiche in Linux}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb http://www-old.bo.cnr.it/corsi-di-informatica/corsoCstandard/Lezioni/37LinuxLibraries.html
+      \endverb
+      \verb{url}
+      \verb http://www-old.bo.cnr.it/corsi-di-informatica/corsoCstandard/Lezioni/37LinuxLibraries.html
+      \endverb
+    \endentry
+    \entry{Register-definition}{site}{}
+      \name{author}{1}{}{%
+        {{hash=d37d754df15d457e57248006d2aa9b38}{%
+           family={Lutkevich},
+           familyi={L\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{d37d754df15d457e57248006d2aa9b38}
+      \strng{fullhash}{d37d754df15d457e57248006d2aa9b38}
+      \strng{bibnamehash}{d37d754df15d457e57248006d2aa9b38}
+      \strng{authorbibnamehash}{d37d754df15d457e57248006d2aa9b38}
+      \strng{authornamehash}{d37d754df15d457e57248006d2aa9b38}
+      \strng{authorfullhash}{d37d754df15d457e57248006d2aa9b38}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.techtarget.com/whatis/definition/register
+      \endverb
+      \verb{url}
+      \verb https://www.techtarget.com/whatis/definition/register
+      \endverb
+    \endentry
+    \entry{return-to-csu}{artcile}{}
+      \name{author}{2}{}{%
+        {{hash=b3d6939da41c4632201ede6e2ebeea1c}{%
+           family={Marco-Gisbert},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Hector},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1e69aee10d8e349ca938d1e083f667a9}{%
+           family={Ripoll},
+           familyi={R\bibinitperiod},
+           given={Ismael},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd1d111877f968ea046158176ac8777e}
+      \strng{fullhash}{dd1d111877f968ea046158176ac8777e}
+      \strng{bibnamehash}{dd1d111877f968ea046158176ac8777e}
+      \strng{authorbibnamehash}{dd1d111877f968ea046158176ac8777e}
+      \strng{authornamehash}{dd1d111877f968ea046158176ac8777e}
+      \strng{authorfullhash}{dd1d111877f968ea046158176ac8777e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{Black Hat Asia 2018, Black Hat ; Conference date: 20-03-2018 Through 23-03-2018}
+      \field{title}{return-to-csu: a new method to bypass 64-bit Linux ASLR}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.blackhat.com/asia-18/
+      \endverb
+      \verb{url}
+      \verb https://www.blackhat.com/asia-18/
+      \endverb
+      \keyw{ASLR,Linux,Security}
+    \endentry
+    \entry{DEP-windows}{site}{}
+      \name{author}{1}{}{%
+        {{hash=1c7c7ca34e0665a060671cf74b392e8d}{%
+           family={Matt\bibnamedelima Miller},
+           familyi={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Ken\bibnamedelima Johnson},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c7c7ca34e0665a060671cf74b392e8d}
+      \strng{fullhash}{1c7c7ca34e0665a060671cf74b392e8d}
+      \strng{bibnamehash}{1c7c7ca34e0665a060671cf74b392e8d}
+      \strng{authorbibnamehash}{1c7c7ca34e0665a060671cf74b392e8d}
+      \strng{authornamehash}{1c7c7ca34e0665a060671cf74b392e8d}
+      \strng{authorfullhash}{1c7c7ca34e0665a060671cf74b392e8d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.blackhat.com/html/bh-us-12/bh-us-12-briefings.html#Miller2
+      \endverb
+      \verb{url}
+      \verb https://www.blackhat.com/html/bh-us-12/bh-us-12-briefings.html#Miller2
+      \endverb
+    \endentry
+    \entry{AMD64-ABI}{article}{}
+      \name{author}{4}{}{%
+        {{hash=124b3029f5dd34c616a3fff556567d38}{%
+           family={Matz},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=20ac53f71da36d5029c8e71054fae04a}{%
+           family={Hubicka},
+           familyi={H\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3320a3d23a52016d9bb3ccaae91fdf65}{%
+           family={Jaeger},
+           familyi={J\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6d6035c7e0444d218c639cde2ddc7277}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c96bac20a89064d9a7596d1643e19b3}
+      \strng{fullhash}{7e481c2124190eab6c2bf42b5163dfaf}
+      \strng{bibnamehash}{9c96bac20a89064d9a7596d1643e19b3}
+      \strng{authorbibnamehash}{9c96bac20a89064d9a7596d1643e19b3}
+      \strng{authornamehash}{9c96bac20a89064d9a7596d1643e19b3}
+      \strng{authorfullhash}{7e481c2124190eab6c2bf42b5163dfaf}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AMD64 Architecture Processor Supplement, Draft v0}
+      \field{number}{2013}
+      \field{title}{System v application binary interface}
+      \field{volume}{99}
+      \field{year}{2013}
+      \field{pages}{57}
+      \range{pages}{1}
+    \endentry
+    \entry{NX}{site}{}
+      \name{author}{1}{}{%
+        {{hash=65b9ae3dfe937a98569ee98d99a9ef65}{%
+           family={Molnar},
+           familyi={M\bibinitperiod},
+           given={Ingo},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{65b9ae3dfe937a98569ee98d99a9ef65}
+      \strng{fullhash}{65b9ae3dfe937a98569ee98d99a9ef65}
+      \strng{bibnamehash}{65b9ae3dfe937a98569ee98d99a9ef65}
+      \strng{authorbibnamehash}{65b9ae3dfe937a98569ee98d99a9ef65}
+      \strng{authornamehash}{65b9ae3dfe937a98569ee98d99a9ef65}
+      \strng{authorfullhash}{65b9ae3dfe937a98569ee98d99a9ef65}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{year}{2004}
+      \verb{urlraw}
+      \verb https://lkml.iu.edu/hypermail/linux/kernel/0406.0/0497.html
+      \endverb
+      \verb{url}
+      \verb https://lkml.iu.edu/hypermail/linux/kernel/0406.0/0497.html
+      \endverb
+    \endentry
+    \entry{Badchars}{site}{}
+      \name{author}{1}{}{%
+        {{hash=d18701089f737b9f714040464e2743cd}{%
+           family={Narvaja},
+           familyi={N\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{d18701089f737b9f714040464e2743cd}
+      \strng{fullhash}{d18701089f737b9f714040464e2743cd}
+      \strng{bibnamehash}{d18701089f737b9f714040464e2743cd}
+      \strng{authorbibnamehash}{d18701089f737b9f714040464e2743cd}
+      \strng{authornamehash}{d18701089f737b9f714040464e2743cd}
+      \strng{authorfullhash}{d18701089f737b9f714040464e2743cd}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-4
+      \endverb
+      \verb{url}
+      \verb https://www.coresecurity.com/core-labs/articles/reversing-and-exploiting-free-tools-part-4
+      \endverb
+    \endentry
+    \entry{Gadgets}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a4096244160ce52432cbbc82b12f5f7b}{%
+           family={Onarlioglu},
+           familyi={O\bibinitperiod},
+           given={Kaan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f0fe5d34daf95a5719464f0a2ccde167}{%
+           family={Bilge},
+           familyi={B\bibinitperiod},
+           given={Leyla},
+           giveni={L\bibinitperiod}}}%
+        {{hash=063ff02b5ca3ceb3a03cab00d51ebe93}{%
+           family={Lanzi},
+           familyi={L\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=14cb44e160bd085923d2216f78867ae2}{%
+           family={Balzarotti},
+           familyi={B\bibinitperiod},
+           given={Davide},
+           giveni={D\bibinitperiod}}}%
+        {{hash=006bb466de86f839b385996132de44b0}{%
+           family={Kirda},
+           familyi={K\bibinitperiod},
+           given={Engin},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Austin, Texas, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{352474dc0839ac8c7fd9f2a2fed99c0f}
+      \strng{fullhash}{7afe0984256ab5ed957307579c1c0aa4}
+      \strng{bibnamehash}{352474dc0839ac8c7fd9f2a2fed99c0f}
+      \strng{authorbibnamehash}{352474dc0839ac8c7fd9f2a2fed99c0f}
+      \strng{authornamehash}{352474dc0839ac8c7fd9f2a2fed99c0f}
+      \strng{authorfullhash}{7afe0984256ab5ed957307579c1c0aa4}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 26th Annual Computer Security Applications Conference}
+      \field{isbn}{9781450301336}
+      \field{series}{ACSAC '10}
+      \field{title}{G-Free: Defeating Return-Oriented Programming through Gadget-Less Binaries}
+      \field{year}{2010}
+      \true{nocite}
+      \field{pages}{49\bibrangedash 58}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/1920261.1920269
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1920261.1920269
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1920261.1920269
+      \endverb
+      \keyw{return-to-libc,ROP,return-oriented programming}
+    \endentry
+    \entry{ROP-registers}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ab5381e5923eb5c934301ad77367fe97}{%
+           family={Prandini},
+           familyi={P\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=613ff05a532c0a3d6959437ced268606}{%
+           family={Ramilli},
+           familyi={R\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{34f6c1c8da2f6b33b012e982cb19c6bd}
+      \strng{fullhash}{34f6c1c8da2f6b33b012e982cb19c6bd}
+      \strng{bibnamehash}{34f6c1c8da2f6b33b012e982cb19c6bd}
+      \strng{authorbibnamehash}{34f6c1c8da2f6b33b012e982cb19c6bd}
+      \strng{authornamehash}{34f6c1c8da2f6b33b012e982cb19c6bd}
+      \strng{authorfullhash}{34f6c1c8da2f6b33b012e982cb19c6bd}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Security Privacy}
+      \field{number}{6}
+      \field{title}{Return-Oriented Programming}
+      \field{volume}{10}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{84\bibrangedash 87}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/MSP.2012.152
+      \endverb
+    \endentry
+    \entry{Stack-general}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=ea1b6536a38982e837557210f199298a}{%
+           family={Prati},
+           familyi={P\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea1b6536a38982e837557210f199298a}
+      \strng{fullhash}{ea1b6536a38982e837557210f199298a}
+      \strng{bibnamehash}{ea1b6536a38982e837557210f199298a}
+      \strng{authorbibnamehash}{ea1b6536a38982e837557210f199298a}
+      \strng{authornamehash}{ea1b6536a38982e837557210f199298a}
+      \strng{authorfullhash}{ea1b6536a38982e837557210f199298a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ROP Gadgets hiding techniques in Open Source Projects}
+      \field{type}{phdthesis}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb http://amslaurea.unibo.it/4682/
+      \endverb
+      \verb{url}
+      \verb http://amslaurea.unibo.it/4682/
+      \endverb
+      \keyw{ROP,Security,Buffer Overflows,Open Source,Exploit}
+    \endentry
+    \entry{pwntools}{manual}{}
+      \field{sortinit}{p}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{title}{pwntools}
+      \verb{urlraw}
+      \verb https://docs.pwntools.com/en/stable/index.html
+      \endverb
+      \verb{url}
+      \verb https://docs.pwntools.com/en/stable/index.html
+      \endverb
+    \endentry
+    \entry{OpenBSD-3.3}{site}{}
+      \name{author}{1}{}{%
+        {{hash=0c440eb6f5749b1575305b791cbf5930}{%
+           family={Raadt},
+           familyi={R\bibinitperiod},
+           given={Theo},
+           giveni={T\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c440eb6f5749b1575305b791cbf5930}
+      \strng{fullhash}{0c440eb6f5749b1575305b791cbf5930}
+      \strng{bibnamehash}{0c440eb6f5749b1575305b791cbf5930}
+      \strng{authorbibnamehash}{0c440eb6f5749b1575305b791cbf5930}
+      \strng{authornamehash}{0c440eb6f5749b1575305b791cbf5930}
+      \strng{authorfullhash}{0c440eb6f5749b1575305b791cbf5930}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb http://www.openbsd.org/33.html
+      \endverb
+      \verb{url}
+      \verb http://www.openbsd.org/33.html
+      \endverb
+    \endentry
+    \entry{ROP-General}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9ebb55a9098fcd7cce832af871d9837d}{%
+           family={Roemer},
+           familyi={R\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8e0fa31fc81b59d5c13641653a665a97}{%
+           family={Buchanan},
+           familyi={B\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8e72ae85d346fe6dea613a2090664c28}{%
+           family={Shacham},
+           familyi={S\bibinitperiod},
+           given={Hovav},
+           giveni={H\bibinitperiod}}}%
+        {{hash=dee88ab507f218ded58a2f13c4801dfc}{%
+           family={Savage},
+           familyi={S\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{254fc4a5bb1cdb80fb323093971fa710}
+      \strng{fullhash}{145eadd43e5f41df0917b0d862977477}
+      \strng{bibnamehash}{254fc4a5bb1cdb80fb323093971fa710}
+      \strng{authorbibnamehash}{254fc4a5bb1cdb80fb323093971fa710}
+      \strng{authornamehash}{254fc4a5bb1cdb80fb323093971fa710}
+      \strng{authorfullhash}{145eadd43e5f41df0917b0d862977477}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1094-9224}
+      \field{journaltitle}{ACM Trans. Inf. Syst. Secur.}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Return-Oriented Programming: Systems, Languages, and Applications}
+      \field{volume}{15}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1145/2133375.2133377
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2133375.2133377
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2133375.2133377
+      \endverb
+      \keyw{memory safety,x86,W-xor-X,control flow integrity,NX,Return-oriented programming,SPARC,attacks,return-into-libc,RISC}
+    \endentry
+    \entry{ROPgadget}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b2feade172836ef73752115edee3d440}{%
+           family={Salwan},
+           familyi={S\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2feade172836ef73752115edee3d440}
+      \strng{fullhash}{b2feade172836ef73752115edee3d440}
+      \strng{bibnamehash}{b2feade172836ef73752115edee3d440}
+      \strng{authorbibnamehash}{b2feade172836ef73752115edee3d440}
+      \strng{authornamehash}{b2feade172836ef73752115edee3d440}
+      \strng{authorfullhash}{b2feade172836ef73752115edee3d440}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ROPgadget}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://github.com/JonathanSalwan/ROPgadget
+      \endverb
+      \verb{url}
+      \verb https://github.com/JonathanSalwan/ROPgadget
+      \endverb
+    \endentry
+    \entry{Ropper}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=201b1e9a5e1e9c48ba7cd5a8cb07b0aa}{%
+           family={Schirra},
+           familyi={S\bibinitperiod},
+           given={Sascha},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{201b1e9a5e1e9c48ba7cd5a8cb07b0aa}
+      \strng{fullhash}{201b1e9a5e1e9c48ba7cd5a8cb07b0aa}
+      \strng{bibnamehash}{201b1e9a5e1e9c48ba7cd5a8cb07b0aa}
+      \strng{authorbibnamehash}{201b1e9a5e1e9c48ba7cd5a8cb07b0aa}
+      \strng{authornamehash}{201b1e9a5e1e9c48ba7cd5a8cb07b0aa}
+      \strng{authorfullhash}{201b1e9a5e1e9c48ba7cd5a8cb07b0aa}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ropper}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://github.com/sashs/Ropper
+      \endverb
+      \verb{url}
+      \verb https://github.com/sashs/Ropper
+      \endverb
+    \endentry
+    \entry{ASLR-WX}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=306cb39322d65280b134f67c7898e024}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Edward\bibnamedelima J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=35db40352e7e903f8222f5b595ffc4ae}{%
+           family={Avgerinos},
+           familyi={A\bibinitperiod},
+           given={Thanassis},
+           giveni={T\bibinitperiod}}}%
+        {{hash=cbeda943714c044f03a749cf0a15f952}{%
+           family={Brumley},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco, CA}%
+      }
+      \list{publisher}{1}{%
+        {USENIX Association}%
+      }
+      \strng{namehash}{a543b93fd81dd74ef8e8dd990376c53a}
+      \strng{fullhash}{a543b93fd81dd74ef8e8dd990376c53a}
+      \strng{bibnamehash}{a543b93fd81dd74ef8e8dd990376c53a}
+      \strng{authorbibnamehash}{a543b93fd81dd74ef8e8dd990376c53a}
+      \strng{authornamehash}{a543b93fd81dd74ef8e8dd990376c53a}
+      \strng{authorfullhash}{a543b93fd81dd74ef8e8dd990376c53a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{20th USENIX Security Symposium (USENIX Security 11)}
+      \field{title}{Q: Exploit Hardening Made Easy}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://www.usenix.org/conference/usenix-security-11/q-exploit-hardening-made-easy
+      \endverb
+      \verb{url}
+      \verb https://www.usenix.org/conference/usenix-security-11/q-exploit-hardening-made-easy
+      \endverb
+    \endentry
+    \entry{ROP-x86}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8e72ae85d346fe6dea613a2090664c28}{%
+           family={Shacham},
+           familyi={S\bibinitperiod},
+           given={Hovav},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Alexandria, Virginia, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{8e72ae85d346fe6dea613a2090664c28}
+      \strng{fullhash}{8e72ae85d346fe6dea613a2090664c28}
+      \strng{bibnamehash}{8e72ae85d346fe6dea613a2090664c28}
+      \strng{authorbibnamehash}{8e72ae85d346fe6dea613a2090664c28}
+      \strng{authornamehash}{8e72ae85d346fe6dea613a2090664c28}
+      \strng{authorfullhash}{8e72ae85d346fe6dea613a2090664c28}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 14th ACM Conference on Computer and Communications Security}
+      \field{isbn}{9781595937032}
+      \field{series}{CCS '07}
+      \field{title}{The Geometry of Innocent Flesh on the Bone: Return-into-Libc without Function Calls (on the X86)}
+      \field{year}{2007}
+      \field{pages}{552\bibrangedash 561}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/1315245.1315313
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1315245.1315313
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1315245.1315313
+      \endverb
+      \keyw{return-into-libc,instruction set,turing completeness}
+    \endentry
+    \entry{PLT-GOT-WORKS}{site}{}
+      \name{author}{1}{}{%
+        {{hash=46a0be80c3c6fc6a93e431b2d174c7c5}{%
+           family={Shahini},
+           familyi={S\bibinitperiod},
+           prefix={sirus},
+           prefixi={s\bibinitperiod}}}%
+      }
+      \strng{namehash}{46a0be80c3c6fc6a93e431b2d174c7c5}
+      \strng{fullhash}{46a0be80c3c6fc6a93e431b2d174c7c5}
+      \strng{bibnamehash}{46a0be80c3c6fc6a93e431b2d174c7c5}
+      \strng{authorbibnamehash}{46a0be80c3c6fc6a93e431b2d174c7c5}
+      \strng{authornamehash}{46a0be80c3c6fc6a93e431b2d174c7c5}
+      \strng{authorfullhash}{46a0be80c3c6fc6a93e431b2d174c7c5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://bitguard.wordpress.com/2016/11/26/an-example-of-how-procedure-linkage-table-works/
+      \endverb
+      \verb{url}
+      \verb https://bitguard.wordpress.com/2016/11/26/an-example-of-how-procedure-linkage-table-works/
+      \endverb
+    \endentry
+    \entry{ROP-Basics}{site}{}
+      \name{author}{1}{}{%
+        {{hash=ca73e15eb8d4e02c8b22f2c279a109f6}{%
+           family={El-Sherei},
+           familyi={E\bibinithyphendelim S\bibinitperiod},
+           given={Saif},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca73e15eb8d4e02c8b22f2c279a109f6}
+      \strng{fullhash}{ca73e15eb8d4e02c8b22f2c279a109f6}
+      \strng{bibnamehash}{ca73e15eb8d4e02c8b22f2c279a109f6}
+      \strng{authorbibnamehash}{ca73e15eb8d4e02c8b22f2c279a109f6}
+      \strng{authornamehash}{ca73e15eb8d4e02c8b22f2c279a109f6}
+      \strng{authorfullhash}{ca73e15eb8d4e02c8b22f2c279a109f6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://www.exploit-db.com/docs/english/28479-return-oriented-programming-(rop-ftw).pdf
+      \endverb
+      \verb{url}
+      \verb https://www.exploit-db.com/docs/english/28479-return-oriented-programming-(rop-ftw).pdf
+      \endverb
+    \endentry
+    \entry{Ret2libc-libcexpl}{site}{}
+      \name{author}{1}{}{%
+        {{hash=3c7fe133b22b77fce26ab9a0cc3a39ad}{%
+           family={Shirirao},
+           familyi={S\bibinitperiod},
+           given={Shivam},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c7fe133b22b77fce26ab9a0cc3a39ad}
+      \strng{fullhash}{3c7fe133b22b77fce26ab9a0cc3a39ad}
+      \strng{bibnamehash}{3c7fe133b22b77fce26ab9a0cc3a39ad}
+      \strng{authorbibnamehash}{3c7fe133b22b77fce26ab9a0cc3a39ad}
+      \strng{authornamehash}{3c7fe133b22b77fce26ab9a0cc3a39ad}
+      \strng{authorfullhash}{3c7fe133b22b77fce26ab9a0cc3a39ad}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://ret2rop.blogspot.com/2018/08/return-to-libc.html
+      \endverb
+      \verb{url}
+      \verb https://ret2rop.blogspot.com/2018/08/return-to-libc.html
+      \endverb
+    \endentry
+    \entry{find-libc-version2}{site}{}
+      \name{author}{1}{}{%
+        {{hash=3c7fe133b22b77fce26ab9a0cc3a39ad}{%
+           family={Shirirao},
+           familyi={S\bibinitperiod},
+           given={Shivam},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c7fe133b22b77fce26ab9a0cc3a39ad}
+      \strng{fullhash}{3c7fe133b22b77fce26ab9a0cc3a39ad}
+      \strng{bibnamehash}{3c7fe133b22b77fce26ab9a0cc3a39ad}
+      \strng{authorbibnamehash}{3c7fe133b22b77fce26ab9a0cc3a39ad}
+      \strng{authornamehash}{3c7fe133b22b77fce26ab9a0cc3a39ad}
+      \strng{authorfullhash}{3c7fe133b22b77fce26ab9a0cc3a39ad}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://ret2rop.blogspot.com/2020/04/got-address-leak-exploit-unknown-libc.html
+      \endverb
+      \verb{url}
+      \verb https://ret2rop.blogspot.com/2020/04/got-address-leak-exploit-unknown-libc.html
+      \endverb
+    \endentry
+    \entry{ASLR-BYPASS}{site}{}
+      \name{author}{1}{}{%
+        {{hash=8f0c60277776a19118e141e67f1766e5}{%
+           family={Sploitfun},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f0c60277776a19118e141e67f1766e5}
+      \strng{fullhash}{8f0c60277776a19118e141e67f1766e5}
+      \strng{bibnamehash}{8f0c60277776a19118e141e67f1766e5}
+      \strng{authorbibnamehash}{8f0c60277776a19118e141e67f1766e5}
+      \strng{authornamehash}{8f0c60277776a19118e141e67f1766e5}
+      \strng{authorfullhash}{8f0c60277776a19118e141e67f1766e5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-i/
+      \endverb
+      \verb{url}
+      \verb https://sploitfun.wordpress.com/2015/05/08/bypassing-aslr-part-i/
+      \endverb
+    \endentry
+    \entry{Return2plt}{site}{}
+      \name{author}{1}{}{%
+        {{hash=3700c05149e96073a87200c9e4f28ad8}{%
+           family={Sporici},
+           familyi={S\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{3700c05149e96073a87200c9e4f28ad8}
+      \strng{fullhash}{3700c05149e96073a87200c9e4f28ad8}
+      \strng{bibnamehash}{3700c05149e96073a87200c9e4f28ad8}
+      \strng{authorbibnamehash}{3700c05149e96073a87200c9e4f28ad8}
+      \strng{authornamehash}{3700c05149e96073a87200c9e4f28ad8}
+      \strng{authorfullhash}{3700c05149e96073a87200c9e4f28ad8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://codingvision.net/bypassing-aslr-dep-getting-shells-with-pwntools
+      \endverb
+      \verb{url}
+      \verb https://codingvision.net/bypassing-aslr-dep-getting-shells-with-pwntools
+      \endverb
+    \endentry
+    \entry{ASLR}{site}{}
+      \name{author}{1}{}{%
+        {{hash=9b3704bab27e104de6a05f0ae6f576c2}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={PaX},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b3704bab27e104de6a05f0ae6f576c2}
+      \strng{fullhash}{9b3704bab27e104de6a05f0ae6f576c2}
+      \strng{bibnamehash}{9b3704bab27e104de6a05f0ae6f576c2}
+      \strng{authorbibnamehash}{9b3704bab27e104de6a05f0ae6f576c2}
+      \strng{authornamehash}{9b3704bab27e104de6a05f0ae6f576c2}
+      \strng{authorfullhash}{9b3704bab27e104de6a05f0ae6f576c2}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://pax.grsecurity.net/docs/aslr.txt
+      \endverb
+      \verb{url}
+      \verb https://pax.grsecurity.net/docs/aslr.txt
+      \endverb
+    \endentry
+    \entry{ASLR2}{site}{}
+      \name{author}{1}{}{%
+        {{hash=9b3704bab27e104de6a05f0ae6f576c2}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={PaX},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b3704bab27e104de6a05f0ae6f576c2}
+      \strng{fullhash}{9b3704bab27e104de6a05f0ae6f576c2}
+      \strng{bibnamehash}{9b3704bab27e104de6a05f0ae6f576c2}
+      \strng{authorbibnamehash}{9b3704bab27e104de6a05f0ae6f576c2}
+      \strng{authornamehash}{9b3704bab27e104de6a05f0ae6f576c2}
+      \strng{authorfullhash}{9b3704bab27e104de6a05f0ae6f576c2}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.thefastcode.com/it-eur/article/what-is-aslr-and-how-does-it-keep-your-computer-secure
+      \endverb
+      \verb{url}
+      \verb https://www.thefastcode.com/it-eur/article/what-is-aslr-and-how-does-it-keep-your-computer-secure
+      \endverb
+    \endentry
+    \entry{Formatstring}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e8f23f898a36c7afec7f1696d6afd90c}{%
+           family={team},
+           familyi={t\bibinitperiod},
+           given={Teso},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e8f23f898a36c7afec7f1696d6afd90c}
+      \strng{fullhash}{e8f23f898a36c7afec7f1696d6afd90c}
+      \strng{bibnamehash}{e8f23f898a36c7afec7f1696d6afd90c}
+      \strng{authorbibnamehash}{e8f23f898a36c7afec7f1696d6afd90c}
+      \strng{authornamehash}{e8f23f898a36c7afec7f1696d6afd90c}
+      \strng{authorfullhash}{e8f23f898a36c7afec7f1696d6afd90c}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Exploiting Format String Vulnerabilities}
+      \field{year}{2001}
+    \endentry
+    \entry{PLT-GOT-MITIGATION}{site}{}
+      \name{author}{1}{}{%
+        {{hash=9724da855997a02e74ee77d11b4d64e2}{%
+           family={Tomaschik},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9724da855997a02e74ee77d11b4d64e2}
+      \strng{fullhash}{9724da855997a02e74ee77d11b4d64e2}
+      \strng{bibnamehash}{9724da855997a02e74ee77d11b4d64e2}
+      \strng{authorbibnamehash}{9724da855997a02e74ee77d11b4d64e2}
+      \strng{authornamehash}{9724da855997a02e74ee77d11b4d64e2}
+      \strng{authorfullhash}{9724da855997a02e74ee77d11b4d64e2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html
+      \endverb
+      \verb{url}
+      \verb https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html
+      \endverb
+    \endentry
+    \entry{ELF}{manual}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{title}{Tool Interface Standard (TIS) Executable and Linking Format (ELF) Specification}
+      \field{version}{1.2}
+      \field{year}{1995}
+    \endentry
+    \entry{Ret2libc}{article}{}
+      \name{author}{6}{}{%
+        {{hash=692369c69d93b9f35970575101d9481b}{%
+           family={Tran},
+           familyi={T\bibinitperiod},
+           given={Minh},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2bdccb6f620bc016aeaf5d11cf0780f4}{%
+           family={Etheridge},
+           familyi={E\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7683a9a02291d9d03c5643a8215184b6}{%
+           family={Bletsch},
+           familyi={B\bibinitperiod},
+           given={Tyler},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ce10d9e316c2d22a46ebfa423c4e7bbe}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Xuxian},
+           giveni={X\bibinitperiod}}}%
+        {{hash=17856862be3548c8f55950bbab8a0672}{%
+           family={Freeh},
+           familyi={F\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ac060b50fc38c4b5fe953185f3f9b728}{%
+           family={Ning},
+           familyi={N\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{496f117a18a22a967ec6beed92682d40}
+      \strng{fullhash}{21e11c38fa97162ce55337d9bdb73ed3}
+      \strng{bibnamehash}{496f117a18a22a967ec6beed92682d40}
+      \strng{authorbibnamehash}{496f117a18a22a967ec6beed92682d40}
+      \strng{authornamehash}{496f117a18a22a967ec6beed92682d40}
+      \strng{authorfullhash}{21e11c38fa97162ce55337d9bdb73ed3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-642-23643-3}
+      \field{month}{09}
+      \field{title}{On the Expressiveness of Return-into-libc Attacks}
+      \field{volume}{6961}
+      \field{year}{2011}
+      \field{pages}{121\bibrangedash 141}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/978-3-642-23644-0_7
+      \endverb
+    \endentry
+    \entry{Stack-operation}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=79904612cced76d47cd93d46f752710a}{%
+           family={Yiu},
+           familyi={Y\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=79904612cced76d47cd93d46f752710a}{%
+           family={Yiu},
+           familyi={Y\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Newnes}%
+      }
+      \strng{namehash}{79904612cced76d47cd93d46f752710a}
+      \strng{fullhash}{79904612cced76d47cd93d46f752710a}
+      \strng{bibnamehash}{79904612cced76d47cd93d46f752710a}
+      \strng{authorbibnamehash}{79904612cced76d47cd93d46f752710a}
+      \strng{authornamehash}{79904612cced76d47cd93d46f752710a}
+      \strng{authorfullhash}{79904612cced76d47cd93d46f752710a}
+      \strng{editorbibnamehash}{79904612cced76d47cd93d46f752710a}
+      \strng{editornamehash}{79904612cced76d47cd93d46f752710a}
+      \strng{editorfullhash}{79904612cced76d47cd93d46f752710a}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Definitive Guide to Arm® Cortex®-M0 and Cortex-M0+ Processors (Second Edition)}
+      \field{edition}{Second Edition}
+      \field{isbn}{978-0-12-803277-0}
+      \field{title}{Chapter 4 - Architecture}
+      \field{year}{2015}
+      \field{pages}{87\bibrangedash 108}
+      \range{pages}{22}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-0-12-803277-0.00004-7
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780128032770000047
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/B9780128032770000047
+      \endverb
+      \keyw{ARMv6-M architecture,Core's registers,Debug features overview,Exceptions and interrupts,Memory system,Nested Vectored Interrupt Controller (NVIC),Operation modes and states,Programmer's model,Reset sequence,Special registers,Stack memory}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

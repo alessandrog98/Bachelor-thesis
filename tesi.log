@@ -1,0 +1,1860 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.17)  27 JUN 2022 17:19
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/lxgas/Desktop/tesi finale corretta/tesi/tesi.tex"
+(c:/Users/lxgas/Desktop/tesi finale corretta/tesi/tesi.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/toptesi\toptesi.cls
+Document Class: toptesi 2020-09-06 v.6.4.06 Class for typesetting university theses
+(C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2022/04/12 4.2 verbatim text (tvz,hv)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\FV@CodeLineNo=\count185
+\FV@InFile=\read2
+\FV@TabBox=\box50
+\c@FancyVerbLine=\count186
+\FV@StepNumber=\count187
+\FV@OutFile=\write3
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/tools\trace.sty
+Package: trace 2021/04/18 v1.1f trace LaTeX code
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count188
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count189
+\c@chapter=\count190
+\c@section=\count191
+\c@subsection=\count192
+\c@subsubsection=\count193
+\c@paragraph=\count194
+\c@subparagraph=\count195
+\c@figure=\count196
+\c@table=\count197
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count198
+\U@D=\dimen139
+\l@unhyphenated=\language79
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count199
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian.ldf
+Language: italian 2022/03/27 v.1.4.07 Italian support for the babel system
+\it@lettering=\count266
+\it@doublequoteactive=\count267
+\it@ISOcompliance=\count268
+)) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/toptesi\toptesi.sty
+Package: toptesi 2020-09-06 v.6.4.06 Extension for toptesi.cls
+\T@Pbinding=\skip49
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrextend.sty
+Package: scrextend 2021/11/13 v3.35 KOMA-Script package (extend other classes with features of KOMA-Script classes)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.sty
+Package: scrkbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line 368.
+))) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count270
+\l__pdf_internal_box=\box51
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+\interno=\skip50
+\@intesta=\box52
+\TOPsecnumdepth=\count271
+\SDcaptionwidth=\dimen142
+\SDfigurewidth=\dimen143
+\SDlinewidth=\dimen144
+\SDfigbox=\box53
+\SDcapbox=\box54
+\c@SDpage=\count272
+\c@NumberSD=\count273
+LaTeX Font Info:    Redeclaring math symbol \virgola on input line 730.
+LaTeX Font Info:    Redeclaring math symbol \virgoladecimale on input line 731.
+\c@tomo=\count274
+)) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/toptesi\topfront.sty
+Package: topfront 2020-09-06 v.6.4.06 Title page for TOPtesi and other classes
+\TPT@logospace=\skip51
+\TPT@logobox=\box55
+\TPT@logoheight=\dimen145
+\T@Tlogoheight=\skip52
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/toptesi\toptesi.cfg)) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+\c@blindtext=\count275
+\c@Blindtext=\count276
+\c@blind@countparstart=\count277
+\blind@countxx=\count278
+\blindtext@numBlindtext=\count279
+\blind@countyy=\count280
+\c@blindlist=\count281
+\c@blindlistlevel=\count282
+\c@blindlist@level=\count283
+\blind@listitem=\count284
+\c@blind@listcount=\count285
+\c@blind@levelcount=\count286
+\blind@mathformula=\count287
+\blind@Mathformula=\count288
+\c@blind@randomcount=\count289
+\c@blind@randommax=\count290
+\c@blind@pangramcount=\count291
+\c@blind@pangrammax=\count292
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen146
+\WF@size=\dimen147
+\c@WF@wrappedlines=\count293
+\WF@box=\box56
+\WF@everypar=\toks21
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen148
+\lightrulewidth=\dimen149
+\cmidrulewidth=\dimen150
+\belowrulesep=\dimen151
+\belowbottomsep=\dimen152
+\aboverulesep=\dimen153
+\abovetopsep=\dimen154
+\cmidrulesep=\dimen155
+\cmidrulekern=\dimen156
+\defaultaddspace=\dimen157
+\@cmidla=\count294
+\@cmidlb=\count295
+\@aboverulesep=\dimen158
+\@belowrulesep=\dimen159
+\@thisruleclass=\count296
+\@lastruleclass=\count297
+\@thisrulewidth=\dimen160
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/tools\varioref.sty
+Package: varioref 2021/07/07 v1.6f package for extended references (FMi)
+\c@vrcnt=\count298
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen161
+\ar@mcellbox=\box57
+\extrarowheight=\dimen162
+\NC@list=\toks22
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box58
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/paralist\paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip55
+\plpartopsep=\skip56
+\plitemsep=\skip57
+\plparsep=\skip58
+\pl@lab=\toks23
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks24
+\verbatim@line=\toks25
+\verbatim@in@stream=\read4
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen163
+\captionmargin=\dimen164
+\caption@leftmargin=\dimen165
+\caption@rightmargin=\dimen166
+\caption@width=\dimen167
+\caption@indent=\dimen168
+\caption@parindent=\dimen169
+\caption@hangindent=\dimen170
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count299
+\c@continuedfloat=\count300
+Package caption Info: wrapfig package is loaded.
+)
+\c@KVtest=\count301
+\sf@farskip=\skip59
+\sf@captopadj=\dimen171
+\sf@capskip=\skip60
+\sf@nearskip=\skip61
+\c@subfigure=\count302
+\c@subfigure@save=\count303
+\c@lofdepth=\count304
+\c@subtable=\count305
+\c@subtable@save=\count306
+\c@lotdepth=\count307
+\sf@top=\skip62
+\sf@bottom=\skip63
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen172
+\TX@old@table=\dimen173
+\TX@old@col=\dimen174
+\TX@target=\dimen175
+\TX@delta=\dimen176
+\TX@cols=\count308
+\TX@ftn=\toks26
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip64
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen177
+)) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen178
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count309
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count310
+\leftroot@=\count311
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count312
+\DOTSCASE@=\count313
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box59
+\strutbox@=\box60
+\big@size=\dimen179
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count314
+\c@MaxMatrixCols=\count315
+\dotsspace@=\muskip17
+\c@parentequation=\count316
+\dspbrk@lvl=\count317
+\tag@help=\toks28
+\row@=\count318
+\column@=\count319
+\maxfields@=\count320
+\andhelp@=\toks29
+\eqnshift@=\dimen180
+\alignsep@=\dimen181
+\tagshift@=\dimen182
+\tagwidth@=\dimen183
+\totwidth@=\dimen184
+\lineht@=\dimen185
+\@envbody=\toks30
+\multlinegap=\skip65
+\multlinetaggap=\skip66
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count321
+\float@exts=\toks32
+\float@box=\box61
+\@float@everytoks=\toks33
+\@floatcapt=\box62
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count322
+\mult@box=\box63
+\multicol@leftmargin=\dimen186
+\c@unbalance=\count323
+\c@collectmore=\count324
+\doublecol@number=\count325
+\multicoltolerance=\count326
+\multicolpretolerance=\count327
+\full@width=\dimen187
+\page@free=\dimen188
+\premulticols=\dimen189
+\postmulticols=\dimen190
+\multicolsep=\skip67
+\multicolbaselineskip=\skip68
+\partial@page=\box64
+\last@line=\box65
+\maxbalancingoverflow=\dimen191
+\mult@rightbox=\box66
+\mult@grightbox=\box67
+\mult@firstbox=\box68
+\mult@gfirstbox=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\c@minrows=\count328
+\c@columnbadness=\count329
+\c@finalcolumnbadness=\count330
+\last@try=\dimen192
+\multicolovershoot=\dimen193
+\multicolundershoot=\dimen194
+\mult@nat@firstbox=\box106
+\colbreak@box=\box107
+\mc@col@check@num=\count331
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip69
+\multirow@cntb=\count332
+\multirow@dima=\skip70
+\bigstrutjot=\dimen195
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count333
+\lst@gtempboxa=\box108
+\lst@token=\toks34
+\lst@length=\count334
+\lst@currlwidth=\dimen196
+\lst@column=\count335
+\lst@pos=\count336
+\lst@lostspace=\dimen197
+\lst@width=\dimen198
+\lst@newlines=\count337
+\lst@lineno=\count338
+\lst@maxwidth=\dimen199
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count339
+\lst@skipnumbers=\count340
+\lst@framebox=\box109
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count341
+\Gm@cntv=\count342
+\c@Gm@tempcnt=\count343
+\Gm@bindingoffset=\dimen256
+\Gm@wd@mp=\dimen257
+\Gm@odd@mp=\dimen258
+\Gm@even@mp=\dimen259
+\Gm@layoutwidth=\dimen260
+\Gm@layoutheight=\dimen261
+\Gm@layouthoffset=\dimen262
+\Gm@layoutvoffset=\dimen263
+\Gm@dimlist=\toks35
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count344
+\rotFPtop=\skip71
+\rotFPbot=\skip72
+\rot@float@box=\box110
+\rot@mess@toks=\toks36
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+\@float@every@algorithm=\toks37
+\c@algorithm=\count345
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count346
+\c@ALC@line=\count347
+\c@ALC@rem=\count348
+\c@ALC@depth=\count349
+\ALC@tlm=\skip73
+\algorithmicindent=\skip74
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+\csq@reset=\count350
+\csq@gtype=\count351
+\csq@glevel=\count352
+\csq@qlevel=\count353
+\csq@maxlvl=\count354
+\csq@tshold=\count355
+\csq@ltx@everypar=\toks38
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Option 'babel' depreciated.
+(csquotes)             Using 'autostyle'.
+Package csquotes Info: Enabling multilingual quotes.
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen264
+\Hy@linkcounter=\count356
+\Hy@pagecounter=\count357
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count358
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count359
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen265
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count360
+\Field@Width=\dimen266
+\Fld@charsize=\dimen267
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count361
+\c@Item=\count362
+\c@Hfootnote=\count363
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count364
+\c@bookmark@seq@number=\count365
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip75
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count366
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count367
+\c@listtotal=\count368
+\c@listcount=\count369
+\c@liststart=\count370
+\c@liststop=\count371
+\c@citecount=\count372
+\c@citetotal=\count373
+\c@multicitecount=\count374
+\c@multicitetotal=\count375
+\c@instcount=\count376
+\c@maxnames=\count377
+\c@minnames=\count378
+\c@maxitems=\count379
+\c@minitems=\count380
+\c@citecounter=\count381
+\c@maxcitecounter=\count382
+\c@savedcitecounter=\count383
+\c@uniquelist=\count384
+\c@uniquename=\count385
+\c@refsection=\count386
+\c@refsegment=\count387
+\c@maxextratitle=\count388
+\c@maxextratitleyear=\count389
+\c@maxextraname=\count390
+\c@maxextradate=\count391
+\c@maxextraalpha=\count392
+\c@abbrvpenalty=\count393
+\c@highnamepenalty=\count394
+\c@lownamepenalty=\count395
+\c@maxparens=\count396
+\c@parenlevel=\count397
+\blx@tempcnta=\count398
+\blx@tempcntb=\count399
+\blx@tempcntc=\count400
+\c@blx@maxsection=\count401
+\c@blx@maxsegment@0=\count402
+\blx@notetype=\count403
+\blx@parenlevel@text=\count404
+\blx@parenlevel@foot=\count405
+\c@blx@sectionciteorder@0=\count406
+\blx@entrysetcounter=\count407
+\blx@biblioinstance=\count408
+\labelnumberwidth=\skip76
+\labelalphawidth=\skip77
+\biblabelsep=\skip78
+\bibitemsep=\skip79
+\bibnamesep=\skip80
+\bibinitsep=\skip81
+\bibparsep=\skip82
+\bibhang=\skip83
+\blx@bcfin=\read5
+\blx@bcfout=\write4
+\blx@langwohyphens=\language80
+\c@mincomprange=\count409
+\c@maxcomprange=\count410
+\c@mincompwidth=\count411
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count412
+\c@savedafterword=\count413
+\c@annotator=\count414
+\c@savedannotator=\count415
+\c@author=\count416
+\c@savedauthor=\count417
+\c@bookauthor=\count418
+\c@savedbookauthor=\count419
+\c@commentator=\count420
+\c@savedcommentator=\count421
+\c@editor=\count422
+\c@savededitor=\count423
+\c@editora=\count424
+\c@savededitora=\count425
+\c@editorb=\count426
+\c@savededitorb=\count427
+\c@editorc=\count428
+\c@savededitorc=\count429
+\c@foreword=\count430
+\c@savedforeword=\count431
+\c@holder=\count432
+\c@savedholder=\count433
+\c@introduction=\count434
+\c@savedintroduction=\count435
+\c@namea=\count436
+\c@savednamea=\count437
+\c@nameb=\count438
+\c@savednameb=\count439
+\c@namec=\count440
+\c@savednamec=\count441
+\c@translator=\count442
+\c@savedtranslator=\count443
+\c@shortauthor=\count444
+\c@savedshortauthor=\count445
+\c@shorteditor=\count446
+\c@savedshorteditor=\count447
+\c@labelname=\count448
+\c@savedlabelname=\count449
+\c@institution=\count450
+\c@savedinstitution=\count451
+\c@lista=\count452
+\c@savedlista=\count453
+\c@listb=\count454
+\c@savedlistb=\count455
+\c@listc=\count456
+\c@savedlistc=\count457
+\c@listd=\count458
+\c@savedlistd=\count459
+\c@liste=\count460
+\c@savedliste=\count461
+\c@listf=\count462
+\c@savedlistf=\count463
+\c@location=\count464
+\c@savedlocation=\count465
+\c@organization=\count466
+\c@savedorganization=\count467
+\c@origlocation=\count468
+\c@savedoriglocation=\count469
+\c@origpublisher=\count470
+\c@savedorigpublisher=\count471
+\c@publisher=\count472
+\c@savedpublisher=\count473
+\c@language=\count474
+\c@savedlanguage=\count475
+\c@origlanguage=\count476
+\c@savedoriglanguage=\count477
+\c@pageref=\count478
+\c@savedpageref=\count479
+\shorthandwidth=\skip84
+\shortjournalwidth=\skip85
+\shortserieswidth=\skip86
+\shorttitlewidth=\skip87
+\shortauthorwidth=\skip88
+\shorteditorwidth=\skip89
+\locallabelnumberwidth=\skip90
+\locallabelalphawidth=\skip91
+\localshorthandwidth=\skip92
+\localshortjournalwidth=\skip93
+\localshortserieswidth=\skip94
+\localshorttitlewidth=\skip95
+\localshortauthorwidth=\skip96
+\localshorteditorwidth=\skip97
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+\c@textcitecount=\count480
+\c@textcitetotal=\count481
+\c@textcitemaxnames=\count482
+\c@biburlbigbreakpenalty=\count483
+\c@biburlbreakpenalty=\count484
+\c@biburlnumpenalty=\count485
+\c@biburlucpenalty=\count486
+\c@biburllcpenalty=\count487
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count488
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
+File: numeric.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count489
+\c@bbx:relatedtotal=\count490
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
+File: numeric.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2022-02-24 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
+Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
+)) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/pythontex\pythontex.sty
+Package: pythontex 2021/06/06 v0.18 execute and typeset Python code and other languages
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/fvextra\fvextra.sty
+Package: fvextra 2019/02/04 v1.4 fvextra - extensions and patches for fancyvrb
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count491
+\output=\toks39
+\linenoprevgraf=\count492
+\linenumbersep=\dimen268
+\linenumberwidth=\dimen269
+\c@linenumber=\count493
+\c@pagewiselinenumber=\count494
+\c@LN@truepage=\count495
+\c@internallinenumber=\count496
+\c@internallinenumbers=\count497
+\quotelinenumbersep=\dimen270
+\bframerule=\dimen271
+\bframesep=\dimen272
+\bframebox=\box111
+
+
+LaTeX Warning: Command \@parboxrestore  has changed.
+               Check if current package is valid.
+
+LaTeX Info: Redefining \\ on input line 3056.
+)
+
+Package fvextra Warning: csquotes should be loaded after fvextra, to avoid a warning from the lineno package on input line 37.
+
+\c@FV@TrueTabGroupLevel=\count498
+\c@FV@TrueTabCounter=\count499
+\FV@TabBox@Group=\box112
+\FV@TmpLength=\skip98
+\c@FV@HighlightLinesStart=\count500
+\c@FV@HighlightLinesStop=\count501
+\FV@LoopCount=\count502
+\FV@NCharsBox=\box113
+\FV@BreakIndent=\dimen273
+\FV@BreakIndentNChars=\count503
+\FV@BreakSymbolSepLeft=\dimen274
+\FV@BreakSymbolSepLeftNChars=\count504
+\FV@BreakSymbolSepRight=\dimen275
+\FV@BreakSymbolSepRightNChars=\count505
+\FV@BreakSymbolIndentLeft=\dimen276
+\FV@BreakSymbolIndentLeftNChars=\count506
+\FV@BreakSymbolIndentRight=\dimen277
+\FV@BreakSymbolIndentRightNChars=\count507
+\c@FancyVerbLineBreakLast=\count508
+\FV@LineBox=\box114
+\FV@LineIndentBox=\box115
+\FV@LineWidth=\dimen278
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\integerpart=\count509
+\decimalpart=\count510
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks40
+\pgfkeys@temptoks=\toks41
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks42
+)))
+\pgfopts@list@add@a@toks=\toks43
+\pgfopts@list@add@b@toks=\toks44
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/newfloat\newfloat.sty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+Package newfloat Info: Document class `report' detected (Hy).
+Package newfloat Info: `rotating' package detected.
+Package newfloat Info: `wrapfig' package detected.
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/currfile\currfile.sty
+Package: currfile 2020/09/29 v0.7d Provides the file path elements of the current input file
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/filehook\filehook.sty
+Package: filehook 2020/09/29 v0.8a Hooks for input files
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/filehook\filehook-2020.sty
+Package: filehook-2020 2020/09/29 v0.8a Hooks for input files
+))
+\c@currfiledepth=\count511
+)
+\pytx@codefile=\write5
+\openout5 = `tesi.pytxcode'.
+
+\c@pytx@FancyVerbLineTemp=\count512
+\c@pytx@py@default@default=\count513
+\c@pytx@pycon@default@default=\count514
+\c@pytx@sympy@default@default=\count515
+\c@pytx@sympycon@default@default=\count516
+\c@pytx@pylab@default@default=\count517
+\c@pytx@pylabcon@default@default=\count518
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/pythonhighlight\pythonhighlight.sty
+Package: pythonhighlight 2017/02/09 python code highlighting; provided by Olivier Verdier <olivier.verdier@gmail.com>
+)
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 118.
+Package hyperref Info: Option `colorlinks' set `true' on input line 118.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 191.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+LaTeX Warning: Unused global option(s):
+    [corpo].
+
+(tesi.aux (chapter/chap_one.aux) (chapter/chap_two.aux) (chapter/chap_three.aux) (chapter/chap_four.aux
+
+LaTeX Warning: Label `rop1' multiply defined.
+
+
+LaTeX Warning: Label `rop1' multiply defined.
+
+
+LaTeX Warning: Label `cu-idx' multiply defined.
+
+
+LaTeX Warning: Label `cu-idx' multiply defined.
+
+
+LaTeX Warning: Label `gadgets add' multiply defined.
+
+
+LaTeX Warning: Label `gadgets add' multiply defined.
+
+
+LaTeX Warning: Label `gadgets add' multiply defined.
+
+
+LaTeX Warning: Label `gadgets add' multiply defined.
+
+
+LaTeX Warning: Label `gadgets add' multiply defined.
+
+
+LaTeX Warning: Label `gadgets add' multiply defined.
+
+
+LaTeX Warning: Label `rop1-csu' multiply defined.
+
+) (chapter/chap_five.aux)
+No file chapter/app_a.aux.
+)
+\openout1 = `tesi.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 191.
+LaTeX Font Info:    ... okay on input line 191.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 191.
+LaTeX Font Info:    ... okay on input line 191.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 191.
+LaTeX Font Info:    ... okay on input line 191.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 191.
+LaTeX Font Info:    ... okay on input line 191.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 191.
+LaTeX Font Info:    ... okay on input line 191.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 191.
+LaTeX Font Info:    ... okay on input line 191.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 191.
+LaTeX Font Info:    ... okay on input line 191.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 191.
+LaTeX Font Info:    ... okay on input line 191.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 191.
+LaTeX Font Info:    ... okay on input line 191.
+LaTeX Info: Redefining \it@ocap on input line 191.
+LaTeX Info: Redefining \it@ccap on input line 191.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count519
+\scratchdimen=\dimen279
+\scratchbox=\box116
+\nofMPsegments=\count520
+\nofMParguments=\count521
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count522
+\MPscratchDim=\dimen280
+\MPnumerator=\count523
+\makeMPintoPDFobject=\count524
+\everyMPtoPDFconversion=\toks46
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/toptesi\topcoman.sty
+Package: topcoman 2020-09-06 v.6.4.06 Additional commands for the TOPtesi bundle
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count525
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* pass: disregarded the geometry package!
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=422.50232pt
+* \textheight=607.50787pt
+* \oddsidemargin=15.23279pt
+* \evensidemargin=15.23279pt
+* \topmargin=0.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=19.79994pt
+* \marginparwidth=60.00278pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=24.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 191.
+(C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count526
+LaTeX Info: Redefining \Ref on input line 520.
+)
+LaTeX Info: Redefining \ref on input line 191.
+LaTeX Info: Redefining \pageref on input line 191.
+LaTeX Info: Redefining \nameref on input line 191.
+ (tesi.out) (tesi.out)
+\@outlinefile=\write6
+\openout6 = `tesi.out'.
+
+LaTeX Info: Redefining \Ref on input line 191.
+Package biblatex Info: Trying to load language 'italian'...
+Package biblatex Info: ... file 'italian.lbx' found.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\italian.lbx
+File: italian.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'ascii' specified.
+(biblatex)             No need to reencode data.
+\openout4 = `tesi.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'tesi.bbl' found.
+ (tesi.bbl
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'CET':
+(biblatex)                - Entry 'CET' (bibliography/bibliography.bib): Invalid format 'November, 2018' of date field 'date' - ignoring.
+
+)
+Package biblatex Info: Reference section=0 on input line 191.
+Package biblatex Info: Reference segment=0 on input line 191.
+Package newfloat Info: `float' package detected.
+
+No file pythontex-files-tesi/tesi.pytxmcr.
+Run PythonTeX to create it.
+
+Package PythonTeX Warning: A "listing" environment already exists 
+(PythonTeX)                PythonTeX will not create one 
+(PythonTeX)                Use \setpythontexlistingenv to create a custom listing environment on input line 191.
+
+<images/unive2.png, id=143, 562.1pt x 562.1pt>
+File: images/unive2.png Graphic file (type png)
+<use images/unive2.png>
+Package pdftex.def Info: images/unive2.png  used on input line 242.
+(pdftex.def)             Requested size: 147.87509pt x 147.87839pt.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 250.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 250.
+(C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 250.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 250.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 250.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <11> on input line 250.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7.69997> on input line 250.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5.5> on input line 250.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 250.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 250.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Calculating math sizes for size <13.19997> on input line 250.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <13.19997> on input line 250.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9.23993> on input line 250.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6.59998> on input line 250.
+
+Overfull \vbox (14.7224pt too high) has occurred while \output is active []
+
+ [1{C:/Users/lxgas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+
+ <./images/unive2.png>] [2
+
+
+
+
+] [3
+
+] (tesi.toc [4
+
+])
+\tf@toc=\write7
+\openout7 = `tesi.toc'.
+
+ [5]
+\openout2 = `chapter/chap_one.aux'.
+
+ (chapter/chap_one.tex
+Capitolo 1.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 29.
+(C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [1
+
+
+
+
+]
+<images/memory-layout.png, id=227, 489.32813pt x 351.56343pt>
+File: images/memory-layout.png Graphic file (type png)
+<use images/memory-layout.png>
+Package pdftex.def Info: images/memory-layout.png  used on input line 40.
+(pdftex.def)             Requested size: 244.66345pt x 175.78128pt.
+ [2 <./images/memory-layout.png>]
+<images/register-partition.png, id=243, 593.21625pt x 161.85469pt>
+File: images/register-partition.png Graphic file (type png)
+<use images/register-partition.png>
+Package pdftex.def Info: images/register-partition.png  used on input line 82.
+(pdftex.def)             Requested size: 355.9325pt x 97.11354pt.
+ [3 <./images/register-partition.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 115--119
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+<images/Gadget.png, id=266, 174.6525pt x 66.2475pt>
+File: images/Gadget.png Graphic file (type png)
+<use images/Gadget.png>
+Package pdftex.def Info: images/Gadget.png  used on input line 121.
+(pdftex.def)             Requested size: 104.7923pt x 39.7488pt.
+<images/Unintended-seq.png, id=269, 622.57594pt x 216.05719pt>
+File: images/Unintended-seq.png Graphic file (type png)
+<use images/Unintended-seq.png>
+Package pdftex.def Info: images/Unintended-seq.png  used on input line 131.
+(pdftex.def)             Requested size: 373.54845pt x 129.6353pt.
+<images/Rop-Chain.png, id=274, 622.57594pt x 281.55188pt>
+File: images/Rop-Chain.png Graphic file (type png)
+<use images/Rop-Chain.png>
+Package pdftex.def Info: images/Rop-Chain.png  used on input line 141.
+(pdftex.def)             Requested size: 373.54845pt x 168.93242pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./images/Gadget.png> <./images/Unintended-seq.png>]) [6 <./images/Rop-Chain.png>]
+\openout2 = `chapter/chap_two.aux'.
+
+ (chapter/chap_two.tex
+Capitolo 2.
+[7
+
+
+
+
+]
+<images/stack-based buffer overflow.png, id=326, 609.77812pt x 222.07968pt>
+File: images/stack-based buffer overflow.png Graphic file (type png)
+<use images/stack-based buffer overflow.png>
+Package pdftex.def Info: images/stack-based buffer overflow.png  used on input line 26.
+(pdftex.def)             Requested size: 365.86969pt x 133.24883pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./images/stack-based buffer overflow.png>]
+<images/format string.png, id=339, 546.54187pt x 146.79843pt>
+File: images/format string.png Graphic file (type png)
+<use images/format string.png>
+Package pdftex.def Info: images/format string.png  used on input line 63.
+(pdftex.def)             Requested size: 273.27026pt x 73.39903pt.
+LaTeX Font Info:    Calculating math sizes for size <9.16678> on input line 73.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9.16678> on input line 73.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6.4167> on input line 73.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <4.58339> on input line 73.
+ [9 <./images/format string.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 81.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\oplus' on input line 81.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 81.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--87
+
+ []
+
+) [10] [11]
+\openout2 = `chapter/chap_three.aux'.
+
+ (chapter/chap_three.tex
+Capitolo 3.
+[12
+
+
+
+
+]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 26.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <13.19997> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 26.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--43
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 43--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
+
+ []
+
+[14] [15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 110--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--118
+
+ []
+
+[17]
+<images/ASLR-ldd.png, id=442, 493.0922pt x 117.43875pt>
+File: images/ASLR-ldd.png Graphic file (type png)
+<use images/ASLR-ldd.png>
+Package pdftex.def Info: images/ASLR-ldd.png  used on input line 134.
+(pdftex.def)             Requested size: 394.47429pt x 93.95111pt.
+ [18 <./images/ASLR-ldd.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+<images/puts-precall.png, id=474, 512.66531pt x 105.39375pt>
+File: images/puts-precall.png Graphic file (type png)
+<use images/puts-precall.png>
+Package pdftex.def Info: images/puts-precall.png  used on input line 179.
+(pdftex.def)             Requested size: 295.75032pt x 60.80034pt.
+<images/puts-aftercall.png, id=475, 509.65407pt x 105.39375pt>
+File: images/puts-aftercall.png Graphic file (type png)
+<use images/puts-aftercall.png>
+Package pdftex.def Info: images/puts-aftercall.png  used on input line 181.
+(pdftex.def)             Requested size: 295.75032pt x 61.16217pt.
+ [20] [21 <./images/puts-precall.png> <./images/puts-aftercall.png>]
+<images/memory-paging.png, id=501, 631.60968pt x 206.27063pt>
+File: images/memory-paging.png Graphic file (type png)
+<use images/memory-paging.png>
+Package pdftex.def Info: images/memory-paging.png  used on input line 206.
+(pdftex.def)             Requested size: 315.80406pt x 103.13506pt.
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <11> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 218.
+ [22]
+<images/libc-database.png, id=513, 784.9325pt x 245.91875pt>
+File: images/libc-database.png Graphic file (type png)
+<use images/libc-database.png>
+Package pdftex.def Info: images/libc-database.png  used on input line 221.
+(pdftex.def)             Requested size: 353.21635pt x 110.6624pt.
+
+Overfull \hbox (5.20108pt too wide) in paragraph at lines 228--228
+[]\T1/lmr/bx/n/15.84003 Attacco uti-liz-zan-do la fun-zio-ne __libc_csu_init() 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--238
+
+ []
+
+[23 <./images/memory-paging.png> <./images/libc-database.png>]
+<images/__libc_csu_init.png, id=528, 341.02406pt x 219.06844pt>
+File: images/__libc_csu_init.png Graphic file (type png)
+<use images/__libc_csu_init.png>
+Package pdftex.def Info: images/__libc_csu_init.png  used on input line 240.
+(pdftex.def)             Requested size: 221.66301pt x 142.39278pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--251
+
+ []
+
+[24 <./images/__libc_csu_init.png>]
+<images/Canary.png, id=542, 657.45625pt x 334.24875pt>
+File: images/Canary.png Graphic file (type png)
+<use images/Canary.png>
+Package pdftex.def Info: images/Canary.png  used on input line 263.
+(pdftex.def)             Requested size: 262.97784pt x 133.69713pt.
+ [25 <./images/Canary.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 275--277
+
+ []
+
+<images/canary-stack.png, id=556, 522.95375pt x 101.37875pt>
+File: images/canary-stack.png Graphic file (type png)
+<use images/canary-stack.png>
+Package pdftex.def Info: images/canary-stack.png  used on input line 282.
+(pdftex.def)             Requested size: 261.47623pt x 50.68924pt.
+[26 <./images/canary-stack.png>]) [27] [28]
+\openout2 = `chapter/chap_four.aux'.
+
+ (chapter/chap_four.tex
+Capitolo 4.
+[29
+
+
+
+
+] [30]
+Overfull \hbox (0.95724pt too wide) in paragraph at lines 38--40
+[]\T1/lmr/bx/n/11 pwnlib.util.packing\T1/lmr/m/n/11 : il se-guen-te mo-du-lo ren-de di-spo-ni-bi-li del-le fun-zio-ni (\T1/lmr/bx/n/11 p64()\T1/lmr/m/n/11 )
+ []
+
+(C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 49.
+LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 61.
+ (C:\Users\lxgas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmtt.fd
+File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [31]
+<images/checksec_vuln.png, id=647, 168.63pt x 79.04532pt>
+File: images/checksec_vuln.png Graphic file (type png)
+<use images/checksec_vuln.png>
+Package pdftex.def Info: images/checksec_vuln.png  used on input line 91.
+(pdftex.def)             Requested size: 126.75198pt x 59.41649pt.
+<images/checksec_lib.png, id=648, 167.12437pt x 79.79813pt>
+File: images/checksec_lib.png Graphic file (type png)
+<use images/checksec_lib.png>
+Package pdftex.def Info: images/checksec_lib.png  used on input line 92.
+(pdftex.def)             Requested size: 126.75198pt x 60.523pt.
+ [32 <./images/checksec_vuln.png> <./images/checksec_lib.png>]
+<images/dmesg.png, id=672, 718.18312pt x 168.63pt>
+File: images/dmesg.png Graphic file (type png)
+<use images/dmesg.png>
+Package pdftex.def Info: images/dmesg.png  used on input line 132.
+(pdftex.def)             Requested size: 422.50232pt x 99.20522pt.
+ [33 <./images/dmesg.png>]
+<images/bad-pre.png, id=693, 433.62pt x 256.96pt>
+File: images/bad-pre.png Graphic file (type png)
+<use images/bad-pre.png>
+Package pdftex.def Info: images/bad-pre.png  used on input line 160.
+(pdftex.def)             Requested size: 202.7993pt x 120.17915pt.
+<images/bad-act.png, id=694, 436.63126pt x 257.96375pt>
+File: images/bad-act.png Graphic file (type png)
+<use images/bad-act.png>
+Package pdftex.def Info: images/bad-act.png  used on input line 161.
+(pdftex.def)             Requested size: 202.7993pt x 119.81412pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--169
+
+ []
+
+[34 <./images/bad-pre.png> <./images/bad-act.png>] [35] [36] [37]
+<images/stack-pivot.png, id=824, 580.1675pt x 135.50626pt>
+File: images/stack-pivot.png Graphic file (type png)
+<use images/stack-pivot.png>
+Package pdftex.def Info: images/stack-pivot.png  used on input line 308.
+(pdftex.def)             Requested size: 316.87674pt x 74.01173pt.
+ [38 <./images/stack-pivot.png>] [39] [40] [41] [42] [43]
+<images/puntatore a gadget.png, id=1004, 933.40268pt x 312.49141pt>
+File: images/puntatore a gadget.png Graphic file (type png)
+<use images/puntatore a gadget.png>
+Package pdftex.def Info: images/puntatore a gadget.png  used on input line 529.
+(pdftex.def)             Requested size: 422.50232pt x 141.4495pt.
+ [44 <./images/puntatore a gadget.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 545--557
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--557
+
+ []
+
+
+Overfull \hbox (1.39563pt too wide) in paragraph at lines 545--557
+\T1/lmr/bx/n/11 ROP chain\T1/lmr/m/n/11 , os-sia quel-la con-te-nen-te la chia-ma-ta al pri-mo gad-get e al-la \T1/lmr/bx/n/11 se-cret_function\T1/lmr/m/n/11 (): 
+ []
+
+<images/sec-vuln-canary.png, id=1028, 168.63pt x 79.04532pt>
+File: images/sec-vuln-canary.png Graphic file (type png)
+<use images/sec-vuln-canary.png>
+Package pdftex.def Info: images/sec-vuln-canary.png  used on input line 578.
+(pdftex.def)             Requested size: 126.75198pt x 59.41649pt.
+<images/sec-canary-lib.png, id=1029, 168.63pt x 79.04532pt>
+File: images/sec-canary-lib.png Graphic file (type png)
+<use images/sec-canary-lib.png>
+Package pdftex.def Info: images/sec-canary-lib.png  used on input line 579.
+(pdftex.def)             Requested size: 126.75198pt x 59.41649pt.
+[45] [46 <./images/sec-vuln-canary.png> <./images/sec-canary-lib.png>]) [47]
+\openout2 = `chapter/chap_five.aux'.
+
+ (chapter/chap_five.tex
+Capitolo 5.
+) [48
+
+
+
+
+] [49]
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+[50
+
+
+
+
+]
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Overfull \hbox (2.14577pt too wide) in paragraph at lines 332--332
+[]\T1/lmr/m/n/11 GDB de-ve-lo-pers. \T1/lmr/m/it/11 GDB: The GNU Pro-ject De-bug-ger\T1/lmr/m/n/11 . \T1/lmr/m/sc/11 url\T1/lmr/m/n/11 : [][]$\T1/lmtt/m/n/11 https : / / www . sourceware .
+ []
+
+[51]
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Overfull \hbox (2.08148pt too wide) in paragraph at lines 332--332
+[]\T1/lmr/m/n/11 gr4n173. 2020. \T1/lmr/m/sc/11 url\T1/lmr/m/n/11 : [][]$\T1/lmtt/m/n/11 https : / / medium . com / @gr4n173 / pwn -[] ret2libc -[] 7c8b7334725f$[][]\T1/lmr/m/n/11 . 
+ []
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+[52]
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'artcile'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+[53]
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Overfull \hbox (4.27489pt too wide) in paragraph at lines 332--332
+[]\T1/lmr/m/n/11 Sploitfun. 2015. \T1/lmr/m/sc/11 url\T1/lmr/m/n/11 : [][]$\T1/lmtt/m/n/11 https : / / sploitfun . wordpress . com / 2015 / 05 / 08 / bypassing -[]
+ []
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+
+Package biblatex Warning: No driver for entry type 'site'.
+(biblatex)                Using fallback driver on input line 331.
+
+[54] [55] (tesi.aux (chapter/chap_one.aux) (chapter/chap_two.aux) (chapter/chap_three.aux) (chapter/chap_four.aux) (chapter/chap_five.aux)
+No file chapter/app_a.aux.
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `tesi.out' has not changed.
+(rerunfilecheck)             Checksum: 4BBCBBBFAAF5EE58EC7CEA92E21C5D1B;8213.
+Package logreq Info: Writing requests to 'tesi.run.xml'.
+\openout1 = `tesi.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 30863 strings out of 478582
+ 558327 string characters out of 2844344
+ 1505375 words of memory out of 3000000
+ 47964 multiletter control sequences out of 15000+600000
+ 582607 words of font info for 109 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 138i,14n,134p,1406b,2189s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro9.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt8.pfb><C:/Users/lxgas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtto10.pfb>
+Output written on tesi.pdf (60 pages, 1473555 bytes).
+PDF statistics:
+ 1474 PDF objects out of 1728 (max. 8388607)
+ 546 named destinations out of 1000 (max. 500000)
+ 406 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,299 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Testing degli attacchi}{29}{chapter.4}\protected@file@percent }
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\newlabel{chap:Test}{{4}{29}{Mitigation alla Return Oriented Programming}{chapter.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Introduzione al setup e gli strumenti utilizzati per effettuare i test}{29}{section.4.1}\protected@file@percent }
+\newlabel{sec:Tools-setup}{{4.1}{29}{Introduzione al setup e gli strumenti utilizzati per effettuare i test}{section.4.1}{}}
+\newlabel{subsec:Tools}{{4.1}{29}{Introduzione agli strumenti}{section*.24}{}}
+\newlabel{GDB}{{4.1}{29}{Introduzione agli strumenti}{section*.24}{}}
+\newlabel{PEDA}{{4.1}{30}{Introduzione agli strumenti}{section*.24}{}}
+\newlabel{Ropper}{{4.1}{30}{Introduzione agli strumenti}{section*.24}{}}
+\newlabel{Radare2}{{4.1}{30}{Introduzione agli strumenti}{section*.24}{}}
+\newlabel{pwntools}{{4.1}{30}{Introduzione agli strumenti}{section*.24}{}}
+\newlabel{subsec:Code}{{4.1}{31}{Illustrazione codice utilizzato nei test}{section*.25}{}}
+\newlabel{vuln}{{4.1}{31}{file .c dell'eseguibile del codice usato come esempio negli attacchi}{lstlisting.4.1}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.1}{\ignorespaces file .c dell'eseguibile del codice usato come esempio negli attacchi.}}{31}{lstlisting.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Test attacco generico Return Oriented Programming}{32}{section.4.2}\protected@file@percent }
+\newlabel{sec:Test_1}{{4.2}{32}{Test attacco generico Return Oriented Programming}{section.4.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Difese attive nel \textbf  {codice principale} e nella \textbf  {libreria condivisa}.\relax }}{32}{figure.caption.26}\protected@file@percent }
+\newlabel{fig:checksec1}{{4.1}{32}{Difese attive nel \textbf {codice principale} e nella \textbf {libreria condivisa}.\relax }{figure.caption.26}{}}
+\newlabel{change password}{{4.2}{32}{funzione \textbf {change\_password()} della libreria condivisa}{lstlisting.4.2}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.2}{\ignorespaces funzione \textbf  {change\_password()} della libreria condivisa.}}{32}{lstlisting.4.2}\protected@file@percent }
+\newlabel{env}{{4.3}{33}{funzione di settaggio delle principali variabili d'ambiente e chiamata della stessa}{lstlisting.4.3}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.3}{\ignorespaces funzione di settaggio delle principali variabili d'ambiente e chiamata della stessa.}}{33}{lstlisting.4.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Esempio di utilizzo del comando ``\textbf  {dmesg}'' da terminale.\relax }}{33}{figure.caption.27}\protected@file@percent }
+\newlabel{fig:dmesg}{{4.2}{33}{Esempio di utilizzo del comando ``\textbf {dmesg}'' da terminale.\relax }{figure.caption.27}{}}
+\newlabel{gadgets}{{4.4}{33}{\textbf {gadgets} utili che sono stati recuperati per il primo attacco}{lstlisting.4.4}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.4}{\ignorespaces \textbf  {gadgets} utili che sono stati recuperati per il primo attacco.}}{33}{lstlisting.4.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Input dell'utente contenuto nello stack \textbf  {al momento dell'inserimento} ed \textbf  {al termine dell'esecuzione} con evidenziati i caratteri modificati.\relax }}{34}{figure.caption.28}\protected@file@percent }
+\newlabel{fig:badchars}{{4.3}{34}{Input dell'utente contenuto nello stack \textbf {al momento dell'inserimento} ed \textbf {al termine dell'esecuzione} con evidenziati i caratteri modificati.\relax }{figure.caption.28}{}}
+\newlabel{str-stransform}{{4.5}{35}{funzione dell'exploit che trasforma la stringa utile in una senza caratteri considerati \textbf {bad chars}}{lstlisting.4.5}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.5}{\ignorespaces funzione dell'exploit che trasforma la stringa utile in una senza caratteri considerati \textbf  {bad chars}.}}{35}{lstlisting.4.5}\protected@file@percent }
+\newlabel{ROP-inmemory}{{4.6}{35}{Prima porzione di \textbf {ROP chain} per inserimento in memoria}{lstlisting.4.6}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.6}{\ignorespaces Prima porzione di \textbf  {ROP chain} per inserimento in memoria.}}{35}{lstlisting.4.6}\protected@file@percent }
+\newlabel{badcahrs}{{4.7}{35}{Funzione che aggiunge la parte di \textbf {ROP chain} per ritrasformare la stringa memorizzata in ``\textbf {/bin/sh\textbackslash 00}''}{lstlisting.4.7}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.7}{\ignorespaces Funzione che aggiunge la parte di \textbf  {ROP chain} per ritrasformare la stringa memorizzata in ``\textbf  {/bin/sh\textbackslash 00}''.}}{35}{lstlisting.4.7}\protected@file@percent }
+\newlabel{ROP-syscall}{{4.8}{35}{Parte finale della \textbf {ROP chain} per effettuare correttamente la chiamata a sistema ed eseguire la \textit {shell}}{lstlisting.4.8}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.8}{\ignorespaces Parte finale della \textbf  {ROP chain} per effettuare correttamente la chiamata a sistema ed eseguire la \textit  {shell}.}}{35}{lstlisting.4.8}\protected@file@percent }
+\newlabel{sendpayload}{{4.9}{36}{Creazione del payload finale ed invio della chain al programma}{lstlisting.4.9}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.9}{\ignorespaces Creazione del payload finale ed invio della chain al programma.}}{36}{lstlisting.4.9}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}Test Stack pivoting}{36}{section.4.3}\protected@file@percent }
+\newlabel{sec:Test_2}{{4.3}{36}{Test Stack pivoting}{section.4.3}{}}
+\newlabel{new credentials}{{4.10}{36}{funzione \textbf {new\_credentials()} della libreria condivisa}{lstlisting.4.10}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.10}{\ignorespaces funzione \textbf  {new\_credentials()} della libreria condivisa.}}{36}{lstlisting.4.10}\protected@file@percent }
+\newlabel{buffer idx}{{4.11}{37}{Recupero dallo stack dell'indirizzo del buffer mediante una \textbf {format string}}{lstlisting.4.11}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.11}{\ignorespaces Recupero dallo stack dell'indirizzo del buffer mediante una \textbf  {format string}.}}{37}{lstlisting.4.11}\protected@file@percent }
+\newlabel{rop1}{{4.12}{37}{Prima \textbf {ROP chain} per dirottare lo stack}{lstlisting.4.12}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.12}{\ignorespaces Prima \textbf  {ROP chain} per dirottare lo stack.}}{37}{lstlisting.4.12}\protected@file@percent }
+\newlabel{rop1}{{4.13}{37}{Seconda \textbf {ROP chain} da inserire nel buffer per esecuzione della \textit {shell}}{lstlisting.4.13}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.13}{\ignorespaces Seconda \textbf  {ROP chain} da inserire nel buffer per esecuzione della \textit  {shell}.}}{37}{lstlisting.4.13}\protected@file@percent }
+\newlabel{rop1}{{4.14}{38}{Seconda \textbf {ROP chain} da inserire nel buffer per esecuzione della \textit {shell}}{lstlisting.4.14}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.14}{\ignorespaces Seconda \textbf  {ROP chain} da inserire nel buffer per esecuzione della \textit  {shell}.}}{38}{lstlisting.4.14}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Dirottamento dello stack dai test. Contornato in rosso il contenuto di \textbf  {rsp} durante la normale esecuzione, in verde dopo il dirottamento.\relax }}{38}{figure.caption.29}\protected@file@percent }
+\newlabel{fig:stack-pivot}{{4.4}{38}{Dirottamento dello stack dai test. Contornato in rosso il contenuto di \textbf {rsp} durante la normale esecuzione, in verde dopo il dirottamento.\relax }{figure.caption.29}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.4}Test su librerie collegate}{38}{section.4.4}\protected@file@percent }
+\newlabel{sec:Test_3}{{4.4}{38}{Test su librerie collegate}{section.4.4}{}}
+\newlabel{change username}{{4.15}{38}{Funzione \textbf {change\_username()} della libreria condivisa}{lstlisting.4.15}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.15}{\ignorespaces Funzione \textbf  {change\_username()} della libreria condivisa.}}{38}{lstlisting.4.15}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4.1}Return-to-PLT}{38}{subsection.4.4.1}\protected@file@percent }
+\newlabel{subsec:Test_3-1}{{4.4.1}{38}{Return-to-PLT}{subsection.4.4.1}{}}
+\newlabel{rop1-idx}{{4.16}{39}{Creazione e invio della prima \textbf {ROP chain}, per stampare l'indirizzo effettivo in memoria di \textbf {change\_username}() e continuare l'attacco}{lstlisting.4.16}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.16}{\ignorespaces Creazione e invio della prima \textbf  {ROP chain}, per stampare l'indirizzo effettivo in memoria di \textbf  {change\_username}() e continuare l'attacco.}}{39}{lstlisting.4.16}\protected@file@percent }
+\newlabel{cu-idx}{{4.17}{39}{Ricezione dell'indirizzo effettivo di \textbf {change\_username}() e calcolo-impostazione dell'indirizzo di base in memoria della libreria}{lstlisting.4.17}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.17}{\ignorespaces Ricezione dell'indirizzo effettivo di \textbf  {change\_username}() e calcolo-impostazione dell'indirizzo di base in memoria della libreria.}}{39}{lstlisting.4.17}\protected@file@percent }
+\newlabel{secret function}{{4.18}{40}{Funzione \textbf {secret\_function}() della libreria condivisa}{lstlisting.4.18}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.18}{\ignorespaces Funzione \textbf  {secret\_function}() della libreria condivisa.}}{40}{lstlisting.4.18}\protected@file@percent }
+\newlabel{cu-idx}{{4.19}{40}{Seconda \textbf {ROP chain} per il settaggio dei registri e la chiamata finale a \textbf {secret\_function}(), ed invio finale della stessa}{lstlisting.4.19}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.19}{\ignorespaces Seconda \textbf  {ROP chain} per il settaggio dei registri e la chiamata finale a \textbf  {secret\_function}(), ed invio finale della stessa.}}{40}{lstlisting.4.19}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4.2}Return-to-GOT}{40}{subsection.4.4.2}\protected@file@percent }
+\newlabel{subsec:Test_3-2}{{4.4.2}{40}{Return-to-GOT}{subsection.4.4.2}{}}
+\newlabel{cu-idx}{{4.20}{41}{Calcolo \textbf {offset} statico tra funzioni della libreria condivisa \textbf {secret\_function}() e \textbf {change\_username}()}{lstlisting.4.20}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.20}{\ignorespaces Calcolo \textbf  {offset} statico tra funzioni della libreria condivisa \textbf  {secret\_function}() e \textbf  {change\_username}().}}{41}{lstlisting.4.20}\protected@file@percent }
+\newlabel{gadgets add}{{4.21}{41}{\textbf {Gadgets} recuperati necessari per creare la \textbf {ROP chain}}{lstlisting.4.21}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.21}{\ignorespaces \textbf  {Gadgets} recuperati necessari per creare la \textbf  {ROP chain}.}}{41}{lstlisting.4.21}\protected@file@percent }
+\newlabel{rop2-sf}{{4.22}{41}{Creazione e invio della \textbf {ROP chain} per modificare la sezione ``\textbf {.got.plt}''}{lstlisting.4.22}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.22}{\ignorespaces Creazione e invio della \textbf  {ROP chain} per modificare la sezione ``\textbf  {.got.plt}''.}}{41}{lstlisting.4.22}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4.3}Return-to-libc con recupero versione}{42}{subsection.4.4.3}\protected@file@percent }
+\newlabel{subsec:Test_3-3}{{4.4.3}{42}{Return-to-libc con recupero versione}{subsection.4.4.3}{}}
+\newlabel{gadgets add}{{4.23}{42}{Costruzione e invio della prima \textbf {ROP chain} per il recupero degli indirizzi effettivi di \textbf {puts}() e \textbf {scanf}}{lstlisting.4.23}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.23}{\ignorespaces Costruzione e invio della prima \textbf  {ROP chain} per il recupero degli indirizzi effettivi di \textbf  {puts}() e \textbf  {scanf}.}}{42}{lstlisting.4.23}\protected@file@percent }
+\newlabel{gadgets add}{{4.24}{42}{Caricamento del file \textbf {ELF} della \textbf {libc} e calcolo-settaggio dell'indirizzo base di essa in memoria}{lstlisting.4.24}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.24}{\ignorespaces Caricamento del file \textbf  {ELF} della \textbf  {libc} e calcolo-settaggio dell'indirizzo base di essa in memoria.}}{42}{lstlisting.4.24}\protected@file@percent }
+\newlabel{gadgets add}{{4.25}{43}{Ottenimento indirizzo della stringa ``\textbf {/bin/sh\textbackslash 00}'' presente in \textbf {libc}}{lstlisting.4.25}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.25}{\ignorespaces Ottenimento indirizzo della stringa ``\textbf  {/bin/sh\textbackslash 00}'' presente in \textbf  {libc}.}}{43}{lstlisting.4.25}\protected@file@percent }
+\newlabel{gadgets add}{{4.26}{43}{Creazione e invio della \textbf {ROP chain} effettuando la chiamata a \textbf {system}()}{lstlisting.4.26}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.26}{\ignorespaces Creazione e invio della \textbf  {ROP chain} effettuando la chiamata a \textbf  {system}().}}{43}{lstlisting.4.26}\protected@file@percent }
+\newlabel{gadgets add}{{4.27}{43}{Creazione e invio della \textbf {ROP chain} effettuando la chiamata a \textbf {system}()}{lstlisting.4.27}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.27}{\ignorespaces Creazione e invio della \textbf  {ROP chain} effettuando la chiamata a \textbf  {system}().}}{43}{lstlisting.4.27}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.5}Test Return-to-csu}{43}{section.4.5}\protected@file@percent }
+\newlabel{sec:Test_4}{{4.5}{43}{Test Return-to-csu}{section.4.5}{}}
+\newlabel{gadgets add}{{4.28}{44}{\textbf {Gadgets} recuperati dalle istruzioni che compongono \textbf {\_\_libc\_csu\_init}()}{lstlisting.4.28}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.28}{\ignorespaces \textbf  {Gadgets} recuperati dalle istruzioni che compongono \textbf  {\_\_libc\_csu\_init}().}}{44}{lstlisting.4.28}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Puntatore a \textbf  {gadgets} trovato cercando all'interno della sezione \textbf  {.dynamic} del file \textbf  {ELF} con \hyperref  [Radare2]{\textbf  {Radare2}}.\relax }}{44}{figure.caption.30}\protected@file@percent }
+\newlabel{fig:pointer-gadget}{{4.5}{44}{Puntatore a \textbf {gadgets} trovato cercando all'interno della sezione \textbf {.dynamic} del file \textbf {ELF} con \hyperref [Radare2]{\textbf {Radare2}}.\relax }{figure.caption.30}{}}
+\newlabel{rop1-csu}{{4.29}{45}{Prima sequenza della \textbf {ROP chain} che sfrutta il secondo gadget trovato in \textbf {\_\_libc\_csu\_init}()}{lstlisting.4.29}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.29}{\ignorespaces Prima sequenza della \textbf  {ROP chain} che sfrutta il secondo gadget trovato in \textbf  {\_\_libc\_csu\_init}().}}{45}{lstlisting.4.29}\protected@file@percent }
+\newlabel{rop1-csu}{{4.30}{45}{Prima sequenza della \textbf {ROP chain} che sfrutta il secondo gadget trovato in \textbf {\_\_libc\_csu\_init}()}{lstlisting.4.30}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.30}{\ignorespaces Prima sequenza della \textbf  {ROP chain} che sfrutta il secondo gadget trovato in \textbf  {\_\_libc\_csu\_init}().}}{45}{lstlisting.4.30}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.6}Test bypass del "Canary"}{46}{section.4.6}\protected@file@percent }
+\newlabel{sec:Test_5}{{4.6}{46}{Test bypass del "Canary"}{section.4.6}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Difese attive nel \textbf  {codice principale} e nella \textbf  {libreria condivisa}\relax }}{46}{figure.caption.31}\protected@file@percent }
+\newlabel{fig:checksec2}{{4.6}{46}{Difese attive nel \textbf {codice principale} e nella \textbf {libreria condivisa}\relax }{figure.caption.31}{}}
+\newlabel{new credentials canary}{{4.31}{46}{Funzione \textbf {new\_credentials\_canary}() della libreria condivisa}{lstlisting.4.31}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.31}{\ignorespaces Funzione \textbf  {new\_credentials\_canary}() della libreria condivisa.}}{46}{lstlisting.4.31}\protected@file@percent }
+\newlabel{format-string}{{4.32}{47}{Invio format string per stampare vecchio contenuto di \textbf {rbp} e calcolo della posizione nello stack dell'indirizzo di ritorno}{lstlisting.4.32}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.32}{\ignorespaces Invio format string per stampare vecchio contenuto di \textbf  {rbp} e calcolo della posizione nello stack dell'indirizzo di ritorno.}}{47}{lstlisting.4.32}\protected@file@percent }
+\newlabel{pointer-over}{{4.33}{47}{Invio input per sovrascrittura indirizzo puntatore con posizione nello stack dell'indirizzo di ritorno}{lstlisting.4.33}{}}
+\@writefile{lol}{\contentsline {lstlisting}{\numberline {4.33}{\ignorespaces Invio input per sovrascrittura indirizzo puntatore con posizione nello stack dell'indirizzo di ritorno.}}{47}{lstlisting.4.33}\protected@file@percent }
+\@setckpt{chapter/chap_four}{
+\setcounter{page}{48}
+\setcounter{equation}{0}
+\setcounter{enumi}{0}
+\setcounter{enumii}{0}
+\setcounter{enumiii}{0}
+\setcounter{enumiv}{0}
+\setcounter{footnote}{0}
+\setcounter{mpfootnote}{0}
+\setcounter{FancyVerbLine}{0}
+\setcounter{part}{0}
+\setcounter{chapter}{4}
+\setcounter{section}{6}
+\setcounter{subsection}{0}
+\setcounter{subsubsection}{0}
+\setcounter{paragraph}{0}
+\setcounter{subparagraph}{0}
+\setcounter{figure}{6}
+\setcounter{table}{0}
+\setcounter{SDpage}{0}
+\setcounter{NumberSD}{0}
+\setcounter{tomo}{0}
+\setcounter{blindtext}{1}
+\setcounter{Blindtext}{5}
+\setcounter{blind@countparstart}{0}
+\setcounter{blindlist}{0}
+\setcounter{blindlistlevel}{0}
+\setcounter{blindlist@level}{0}
+\setcounter{blind@listcount}{0}
+\setcounter{blind@levelcount}{0}
+\setcounter{blind@randomcount}{0}
+\setcounter{blind@randommax}{0}
+\setcounter{blind@pangramcount}{0}
+\setcounter{blind@pangrammax}{0}
+\setcounter{vrcnt}{0}
+\setcounter{caption@flags}{2}
+\setcounter{continuedfloat}{0}
+\setcounter{KVtest}{0}
+\setcounter{subfigure}{0}
+\setcounter{subfigure@save}{0}
+\setcounter{lofdepth}{1}
+\setcounter{subtable}{0}
+\setcounter{subtable@save}{0}
+\setcounter{lotdepth}{1}
+\setcounter{parentequation}{0}
+\setcounter{float@type}{16}
+\setcounter{lstnumber}{4}
+\setcounter{r@tfl@t}{0}
+\setcounter{algorithm}{0}
+\setcounter{ALC@unique}{0}
+\setcounter{ALC@line}{0}
+\setcounter{ALC@rem}{0}
+\setcounter{ALC@depth}{0}
+\setcounter{Item}{0}
+\setcounter{Hfootnote}{9}
+\setcounter{bookmark@seq@number}{33}
+\setcounter{tabx@nest}{0}
+\setcounter{listtotal}{0}
+\setcounter{listcount}{0}
+\setcounter{liststart}{0}
+\setcounter{liststop}{0}
+\setcounter{citecount}{0}
+\setcounter{citetotal}{0}
+\setcounter{multicitecount}{0}
+\setcounter{multicitetotal}{0}
+\setcounter{instcount}{97}
+\setcounter{maxnames}{3}
+\setcounter{minnames}{1}
+\setcounter{maxitems}{3}
+\setcounter{minitems}{1}
+\setcounter{citecounter}{0}
+\setcounter{maxcitecounter}{0}
+\setcounter{savedcitecounter}{0}
+\setcounter{uniquelist}{0}
+\setcounter{uniquename}{0}
+\setcounter{refsection}{0}
+\setcounter{refsegment}{0}
+\setcounter{maxextratitle}{0}
+\setcounter{maxextratitleyear}{0}
+\setcounter{maxextraname}{2}
+\setcounter{maxextradate}{0}
+\setcounter{maxextraalpha}{0}
+\setcounter{abbrvpenalty}{50}
+\setcounter{highnamepenalty}{50}
+\setcounter{lownamepenalty}{25}
+\setcounter{maxparens}{3}
+\setcounter{parenlevel}{0}
+\setcounter{blx@maxsection}{0}
+\setcounter{blx@maxsegment@0}{0}
+\setcounter{blx@sectionciteorder@0}{97}
+\setcounter{mincomprange}{10}
+\setcounter{maxcomprange}{100000}
+\setcounter{mincompwidth}{1}
+\setcounter{afterword}{0}
+\setcounter{savedafterword}{0}
+\setcounter{annotator}{0}
+\setcounter{savedannotator}{0}
+\setcounter{author}{0}
+\setcounter{savedauthor}{0}
+\setcounter{bookauthor}{0}
+\setcounter{savedbookauthor}{0}
+\setcounter{commentator}{0}
+\setcounter{savedcommentator}{0}
+\setcounter{editor}{0}
+\setcounter{savededitor}{0}
+\setcounter{editora}{0}
+\setcounter{savededitora}{0}
+\setcounter{editorb}{0}
+\setcounter{savededitorb}{0}
+\setcounter{editorc}{0}
+\setcounter{savededitorc}{0}
+\setcounter{foreword}{0}
+\setcounter{savedforeword}{0}
+\setcounter{holder}{0}
+\setcounter{savedholder}{0}
+\setcounter{introduction}{0}
+\setcounter{savedintroduction}{0}
+\setcounter{namea}{0}
+\setcounter{savednamea}{0}
+\setcounter{nameb}{0}
+\setcounter{savednameb}{0}
+\setcounter{namec}{0}
+\setcounter{savednamec}{0}
+\setcounter{translator}{0}
+\setcounter{savedtranslator}{0}
+\setcounter{shortauthor}{0}
+\setcounter{savedshortauthor}{0}
+\setcounter{shorteditor}{0}
+\setcounter{savedshorteditor}{0}
+\setcounter{labelname}{0}
+\setcounter{savedlabelname}{0}
+\setcounter{institution}{0}
+\setcounter{savedinstitution}{0}
+\setcounter{lista}{0}
+\setcounter{savedlista}{0}
+\setcounter{listb}{0}
+\setcounter{savedlistb}{0}
+\setcounter{listc}{0}
+\setcounter{savedlistc}{0}
+\setcounter{listd}{0}
+\setcounter{savedlistd}{0}
+\setcounter{liste}{0}
+\setcounter{savedliste}{0}
+\setcounter{listf}{0}
+\setcounter{savedlistf}{0}
+\setcounter{location}{0}
+\setcounter{savedlocation}{0}
+\setcounter{organization}{0}
+\setcounter{savedorganization}{0}
+\setcounter{origlocation}{0}
+\setcounter{savedoriglocation}{0}
+\setcounter{origpublisher}{0}
+\setcounter{savedorigpublisher}{0}
+\setcounter{publisher}{0}
+\setcounter{savedpublisher}{0}
+\setcounter{language}{0}
+\setcounter{savedlanguage}{0}
+\setcounter{origlanguage}{0}
+\setcounter{savedoriglanguage}{0}
+\setcounter{pageref}{0}
+\setcounter{savedpageref}{0}
+\setcounter{textcitecount}{0}
+\setcounter{textcitetotal}{0}
+\setcounter{textcitemaxnames}{0}
+\setcounter{biburlbigbreakpenalty}{100}
+\setcounter{biburlbreakpenalty}{200}
+\setcounter{biburlnumpenalty}{0}
+\setcounter{biburlucpenalty}{0}
+\setcounter{biburllcpenalty}{0}
+\setcounter{smartand}{1}
+\setcounter{bbx:relatedcount}{0}
+\setcounter{bbx:relatedtotal}{0}
+\setcounter{linenumber}{1}
+\setcounter{LN@truepage}{52}
+\setcounter{FV@TrueTabGroupLevel}{0}
+\setcounter{FV@TrueTabCounter}{0}
+\setcounter{FV@HighlightLinesStart}{0}
+\setcounter{FV@HighlightLinesStop}{0}
+\setcounter{FancyVerbLineBreakLast}{0}
+\setcounter{currfiledepth}{0}
+\setcounter{pytx@FancyVerbLineTemp}{0}
+\setcounter{pytx@py@default@default}{0}
+\setcounter{pytx@pycon@default@default}{0}
+\setcounter{pytx@sympy@default@default}{0}
+\setcounter{pytx@sympycon@default@default}{0}
+\setcounter{pytx@pylab@default@default}{0}
+\setcounter{pytx@pylabcon@default@default}{0}
+\setcounter{lstlisting}{33}
+\setcounter{section@level}{1}
+}
